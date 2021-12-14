@@ -14,3 +14,4 @@
 |Date       |Title                                   |Level| Tag          | RuntimePR | Used memoryPR
 |:---------:|:---------------:                       |:--:  | :--:        |:---------:|:------------:
 |2021-12-14 |Merge Two Sorted Lists.                 |Easy |Linked List   |78.59      |63.26
+|2021-12-14 |Remove Duplicates from Sorted Array     |Easy |Array         |38.36      |47.83
