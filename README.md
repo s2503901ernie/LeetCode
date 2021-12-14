@@ -1,5 +1,5 @@
 # LeetCode
-Leetcode practice
+## Daily challenge
 
 |Date       |Title                                    | Runtime   | Used memory
 |:---------:|:---------------:                        |:---------:|-------------
@@ -9,3 +9,8 @@ Leetcode practice
 |2021-05-12 |Range Sum Query 2D - Immutable           |1406ms     |16.6 MB
 |2021-05-13 |Ambiguous Coordinates                    |40ms       |14.2 MB
 |2021-05-14 |Flatten Binary Tree to Linked List       |28ms       |15.4 MB
+    
+## Problems
+|Date       |Title                                   |Level| Tag          | RuntimePR | Used memoryPR
+|:---------:|:---------------:                       |:--:  | :--:        |:---------:|:------------:
+|2021-12-14 |Merge Two Sorted Lists.                 |Easy |Linked List   |78.59      |63.26
