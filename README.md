@@ -12,7 +12,7 @@
     
 ## Problems
 |Date       |Title                                              |Level  |Tag                  | RuntimePR | Used memoryPR
-|:---------:|:---------------:                                  |:--:   |:--:                 |:---------:|:------------:
+|:---------:|:---------------                                   |:--:   |:--:                 |:---------:|:------------:
 |2021-12-14 |0021. Merge Two Sorted Lists.                      |Easy   |Linked List          |78.59      |63.26
 |2021-12-14 |0026. Remove Duplicates from Sorted Array          |Easy   |Array                |38.36      |47.83
 |2021-12-20 |0088. Merge Sorted Array.                          |Easy   |Array                |90.60      |62.79
