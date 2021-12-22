@@ -21,6 +21,7 @@
 |2021-12-21 |0108. Convert Sorted Array to Binary Search Tree   |Easy   |Binary Search Tree   |89.19      |60.65
 |2021-12-21 |0121. Best Time to Buy and Sell Stock              |Easy   |Array                |94.06      |82.19
 |2021-12-21 |0122. Best Time to Buy and Sell Stock II           |Medium |Array                |97.61      |89.58
+|2021-12-22 |0125. Valid Palindrome                             |Easy   |String               |78.84      |93.37
 
 
 
