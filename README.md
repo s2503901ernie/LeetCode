@@ -23,5 +23,8 @@
 |2021-12-21 |0122. Best Time to Buy and Sell Stock II           |Medium |Array                  |97.61      |89.58
 |2021-12-22 |0125. Valid Palindrome                             |Easy   |String                 |78.84      |93.37
 |2021-12-22 |0136. Single Number.                               |Easy   |Array                  |83.21      |96.71
+|2021-12-23 |0155. Min Stack.                                   |Easy   |Stack                  |19.33      |56.24
+|2021-12-23 |0160. Intersection of Two Linked Lists.            |Easy   |Linked List            |87.53      |81.48
+|2021-12-23 |0167. Two Sum II - Input Array Is Sorted.          |Easy   |Array                  |65.20      |63.35
 
 
