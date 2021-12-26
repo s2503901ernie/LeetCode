@@ -29,3 +29,13 @@
 |2021-12-25 |0203. Remove Linked List Elements.                 |Easy   |Linked List            |99.13      |26.31
 |2021-12-25 |0206. Reverse Linked List                          |Easy   |Linked List            |5.19       |5.39
 
+
+
+## Weekly Contest
+|Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
+|:---------:|:---------------                                   |:--:   |:--:                   |:---------:|:------------:
+|2021-12-26 |2119. A Number After a Double Reversal.            |Easy   |String                 |100.00     |20.00
+|2021-12-26 |2120. Execution of All Suffix Instructions Staying in a Grid|Easy|Array            |33.33      |66.67
+
+
+
