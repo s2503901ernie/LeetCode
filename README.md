@@ -28,7 +28,7 @@
 |2021-12-23 |0167. Two Sum II - Input Array Is Sorted.          |Easy   |Array                  |65.20      |63.35
 |2021-12-25 |0203. Remove Linked List Elements.                 |Easy   |Linked List            |99.13      |26.31
 |2021-12-25 |0206. Reverse Linked List                          |Easy   |Linked List            |5.19       |5.39
-
+|2021-12-27 |0232. Implement Queue Using Stacks.                |Easy   |Stack                  |80.42      |44.86
 
 
 ## Weekly Contest
