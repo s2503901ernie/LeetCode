@@ -33,6 +33,7 @@
 |2021-12-28 |0219. Contains DuplicateII.                        |Easy   |Array                  |47.61      |44.49
 |2021-12-28 |0226. Invert Binary Tree.                          |Easy   |Binary Tree            |65.42      |46.16
 |2021-12-28 |0237. Delete Node in a Linked List.                |Easy   |Linked List            |95.58      |30.95
+|2021-12-28 |0242. Valid Anagram.                               |Easy   |String                 |77.10      |26.91  
 
 
 
