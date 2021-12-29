@@ -29,7 +29,8 @@
 |2021-12-25 |0203. Remove Linked List Elements.                 |Easy   |Linked List            |99.13      |26.31
 |2021-12-25 |0206. Reverse Linked List                          |Easy   |Linked List            |5.19       |5.39
 |2021-12-27 |0232. Implement Queue Using Stacks.                |Easy   |Stack                  |80.42      |44.86
-|2021-12-28 |0217. Contain Duplicate.                           |Easy   |Array                  |16.21      |7.93   
+|2021-12-28 |0217. Contains Duplicate.                          |Easy   |Array                  |16.21      |7.93   
+|2021-12-28 |0219. Contains DuplicateII.                        |Easy   |Array                  |47.61      |44.49
 
 
 
