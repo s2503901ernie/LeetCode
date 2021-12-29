@@ -29,6 +29,13 @@
 |2021-12-25 |0203. Remove Linked List Elements.                 |Easy   |Linked List            |99.13      |26.31
 |2021-12-25 |0206. Reverse Linked List                          |Easy   |Linked List            |5.19       |5.39
 |2021-12-27 |0232. Implement Queue Using Stacks.                |Easy   |Stack                  |80.42      |44.86
+|2021-12-28 |0217. Contains Duplicate.                          |Easy   |Array                  |16.21      |7.93   
+|2021-12-28 |0219. Contains DuplicateII.                        |Easy   |Array                  |47.61      |44.49
+|2021-12-28 |0226. Invert Binary Tree.                          |Easy   |Binary Tree            |65.42      |46.16
+|2021-12-28 |0237. Delete Node in a Linked List.                |Easy   |Linked List            |95.58      |30.95
+|2021-12-28 |0242. Valid Anagram.                               |Easy   |String                 |77.10      |26.91  
+
+
 
 
 ## Weekly Contest
