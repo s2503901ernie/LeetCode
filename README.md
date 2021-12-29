@@ -31,6 +31,8 @@
 |2021-12-27 |0232. Implement Queue Using Stacks.                |Easy   |Stack                  |80.42      |44.86
 |2021-12-28 |0217. Contains Duplicate.                          |Easy   |Array                  |16.21      |7.93   
 |2021-12-28 |0219. Contains DuplicateII.                        |Easy   |Array                  |47.61      |44.49
+|2021-12-28 |0226. Invert Binary Tree.                          |Easy   |Binary Tree            |65.42      |46.16
+
 
 
 
