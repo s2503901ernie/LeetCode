@@ -35,6 +35,7 @@
 |2021-12-28 |0237. Delete Node in a Linked List.                |Easy   |Linked List            |95.58      |30.95
 |2021-12-28 |0242. Valid Anagram.                               |Easy   |String                 |77.10      |26.91  
 |2021-12-29 |0263. Ugly Number.                                 |Easy   |Math                   |99.25      |45.87
+|2021-12-29 |0278. First Bad Version.                           |Easy   |Search                 |79.06      |91.15
 
 
 
