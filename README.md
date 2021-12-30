@@ -36,8 +36,8 @@
 |2021-12-28 |0242. Valid Anagram.                               |Easy   |String                 |77.10      |26.91  
 |2021-12-29 |0263. Ugly Number.                                 |Easy   |Math                   |99.25      |45.87
 |2021-12-29 |0278. First Bad Version.                           |Easy   |Search                 |79.06      |91.15
-|2021-12-19 |0575. Distrubute Candies.                          |Easy   |Array                  |30.99      |8.42
-
+|2021-12-29 |0575. Distrubute Candies.                          |Easy   |Array                  |30.99      |8.42
+|2021-12-29 |0821. Shortest Distance To a Character.            |Easy   |Array                  |93.07      |95.88
 
 
 
