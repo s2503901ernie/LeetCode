@@ -38,6 +38,8 @@
 |2021-12-29 |0278. First Bad Version.                           |Easy   |Search                 |79.06      |91.15
 |2021-12-29 |0575. Distrubute Candies.                          |Easy   |Array                  |30.99      |8.42
 |2021-12-29 |0821. Shortest Distance To a Character.            |Easy   |Array                  |93.07      |95.88
+|2021-12-30 |0283. Move Zeros.                                  |Easy   |Array                  |97.18      |30.93
+
 
 
 
