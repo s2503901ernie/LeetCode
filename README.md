@@ -44,6 +44,7 @@
 |2022-01-01 |0350. Intersection of Two ArraysII.                |Easy   |Array                  |37.61      |90.48
 |2022-01-01 |0374. Guess Number Higher or Lower.                |Easy   |Search                 |79.42      |98.44
 |2022-01-01 |0383. Ransom Note.                                 |Easy   |String                 |43.06      |99.72
+|2022-01-01 |0387. First Unique Character In a String.          |Easy   |String                 |54.79      |44.79
 
 
 
