@@ -41,6 +41,7 @@
 |2021-12-30 |0283. Move Zeros.                                  |Easy   |Array                  |97.18      |30.93
 |2021-12-30 |0344. Reverse String.                              |Easy   |String                 |8.18       |18.64  
 |2022-01-01 |0349. Intersection of Two Arrays.                  |Easy   |Array                  |78.47      |76.26
+|2022-01-01 |0350. Intersection of Two ArraysII.                |Easy   |Array                  |37.61      |90.48
 
 
 
