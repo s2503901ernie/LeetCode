@@ -43,6 +43,7 @@
 |2022-01-01 |0349. Intersection of Two Arrays.                  |Easy   |Array                  |78.47      |76.26
 |2022-01-01 |0350. Intersection of Two ArraysII.                |Easy   |Array                  |37.61      |90.48
 |2022-01-01 |0374. Guess Number Higher or Lower.                |Easy   |Search                 |79.42      |98.44
+|2022-01-01 |0383. Ransom Note.                                 |Easy   |String                 |43.06      |99.72
 
 
 
