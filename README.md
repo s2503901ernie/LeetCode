@@ -48,6 +48,7 @@
 |2022-01-01 |0389. Find The Difference.                         |Easy   |String                 |94.65      |32.62
 |2022-01-01 |0392. Is Subsequence.                              |Easy   |String                 |37.64      |75.71
 |2022-01-02 |0014. Longest Common Prefix.                       |Easy   |String                 |81.27      |81.99
+|2022-01-02 |0035. Search Insert Position.                      |Easy   |Search                 |75.99      |81.87
 
 
 
