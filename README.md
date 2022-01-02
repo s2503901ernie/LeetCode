@@ -50,7 +50,8 @@
 |2022-01-02 |0014. Longest Common Prefix.                       |Easy   |String                 |81.27      |81.99
 |2022-01-02 |0035. Search Insert Position.                      |Easy   |Search                 |75.99      |81.87
 |2022-01-02 |0058. Length of Last Word.                         |Easy   |String                 |80.68      |64.70
-|2022-01-02 |0100. Same Tree.                                   |Easy   |Binary Tree.           |84.49      |86.30
+|2022-01-02 |0100. Same Tree.                                   |Easy   |Binary Tree            |84.49      |86.30
+|2022-01-02 |0100. Balanced Binary Tree.                        |Easy   |Binary Tree            |94.11      |66.64
 
 
 
