@@ -49,6 +49,8 @@
 |2022-01-01 |0392. Is Subsequence.                              |Easy   |String                 |37.64      |75.71
 |2022-01-02 |0014. Longest Common Prefix.                       |Easy   |String                 |81.27      |81.99
 |2022-01-02 |0035. Search Insert Position.                      |Easy   |Search                 |75.99      |81.87
+|2022-01-02 |0058. Length of Last Word.                         |Easy   |String                 |80.68      |64.70
+
 
 
 
