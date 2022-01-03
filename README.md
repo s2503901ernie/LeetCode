@@ -53,6 +53,7 @@
 |2022-01-02 |0100. Same Tree.                                   |Easy   |Binary Tree            |84.49      |86.30
 |2022-01-02 |0100. Balanced Binary Tree.                        |Easy   |Binary Tree            |94.11      |66.64
 |2022-01-03 |0111. Minimum Depth of Binary Tree.                |Easy   |Binary Tree            |22.60      |37.14
+|2022-01-03 |0112. Path Sum.                                    |Easy   |Binary Tree            |62.36      |94.47
 
 
 
