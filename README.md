@@ -59,6 +59,7 @@
 |2022-01-04 |0005. Longest Palindromic Substring.               |Medium |String                 |35.97      |98.89
 |2022-01-04 |0011. Container With Most Water.                   |Medium |Greedy                 |92.05      |75.87
 |2022-01-04 |0015. 3Sum.                                        |Medium |Array                  |44.01      |31.95
+|2022-01-04 |0016. 3Sum Closest.                                |Medium |Array                  |96.68      |44.07
                 
 
 
