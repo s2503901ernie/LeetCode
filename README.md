@@ -57,6 +57,7 @@
 |2022-01-04 |0118. Pascal's Triangle.                           |Easy   |Dynamic Programming    |85.22      |24.35
 |2022-01-04 |0119. Pascal's TriangleII.                         |Easy   |Dynamic Programming    |66.08      |51.75
 |2022-01-04 |0005. Longest Palindromic Substring.               |Medium |String                 |35.97      |98.89
+|2022-01-04 |0011. Container With Most Water.                   |Medium |Greedy                 |92.05      |75.87
                 
 
 
