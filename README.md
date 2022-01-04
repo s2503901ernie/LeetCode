@@ -9,6 +9,8 @@
 |2021-05-12 |Range Sum Query 2D - Immutable           |1406ms     |16.6 MB
 |2021-05-13 |Ambiguous Coordinates                    |40ms       |14.2 MB
 |2021-05-14 |Flatten Binary Tree to Linked List       |28ms       |15.4 MB
+|2022-01-04 |Complement of Base10 Integer             |52ms       |13.9 MB
+
     
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
