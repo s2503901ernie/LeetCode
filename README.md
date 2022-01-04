@@ -63,7 +63,8 @@
 |2022-01-04 |0015. 3Sum.                                        |Medium |Array                  |44.01      |31.95
 |2022-01-04 |0016. 3Sum Closest.                                |Medium |Array                  |96.68      |44.07
 |2022-01-04 |0017. Letter Combinations of a Phone Number.       |Medium |Recursion              |95.91      |64.53
-                
+|2022-01-04 |0019. Remove Nth Node From End of Linked List.     |Medium |Linked List            |98.50      |49.17                
+
 
 
 
