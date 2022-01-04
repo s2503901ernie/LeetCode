@@ -56,7 +56,8 @@
 |2022-01-03 |0112. Path Sum.                                    |Easy   |Binary Tree            |62.36      |94.47
 |2022-01-04 |0118. Pascal's Triangle.                           |Easy   |Dynamic Programming    |85.22      |24.35
 |2022-01-04 |0119. Pascal's TriangleII.                         |Easy   |Dynamic Programming    |66.08      |51.75
-
+|2022-01-04 |0005. Longest Palindromic Substring.               |Medium |String                 |35.97      |98.89
+                
 
 
 
