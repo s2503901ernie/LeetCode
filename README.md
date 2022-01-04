@@ -60,6 +60,7 @@
 |2022-01-04 |0011. Container With Most Water.                   |Medium |Greedy                 |92.05      |75.87
 |2022-01-04 |0015. 3Sum.                                        |Medium |Array                  |44.01      |31.95
 |2022-01-04 |0016. 3Sum Closest.                                |Medium |Array                  |96.68      |44.07
+|2022-01-04 |0017. Letter Combinations of a Phone Number.       |Medium |Recursion              |95.91      |64.53
                 
 
 
