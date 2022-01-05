@@ -67,6 +67,8 @@
 |2022-01-04 |0022. Generate Parentheses.                        |Medium |Recursion              |66.79      |89.15
 |2022-01-04 |0024. Swap Nodes In Pairs.                         |Medium |Linked List            |99.12      |50.01
 |2022-01-05 |0033. Search In Rotated Sorted Array.              |Medium |Search                 |76.36      |56.28
+|2022-01-05 |0039. Combination Sum.                             |Medium |Recursion              |82.24      |52.23
+
 
 
 
