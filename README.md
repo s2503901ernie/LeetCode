@@ -72,6 +72,7 @@
 |2022-01-05 |0046. Permutations.                                |Medium |Recursion              |88.84      |71.65
 |2022-01-05 |0047. PermutationsII.                              |Medium |Recursion              |69.39      |91.41
 |2022-01-05 |0048. Rotate Image.                                |Medium |Array                  |65.74      |85.86
+|2022-01-05 |0056. Merge Intervals.                             |Medium |Array                  |15.74      |7.51
 
 
 
