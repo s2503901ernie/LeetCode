@@ -66,7 +66,7 @@
 |2022-01-04 |0019. Remove Nth Node From End of Linked List.     |Medium |Linked List            |98.50      |49.17                
 |2022-01-04 |0022. Generate Parentheses.                        |Medium |Recursion              |66.79      |89.15
 |2022-01-04 |0024. Swap Nodes In Pairs.                         |Medium |Linked List            |99.12      |50.01
-
+|2022-01-05 |0033. Search In Rotated Sorted Array.              |Medium |Search                 |76.36      |56.28
 
 
 
