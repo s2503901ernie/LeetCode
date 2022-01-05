@@ -74,6 +74,7 @@
 |2022-01-05 |0048. Rotate Image.                                |Medium |Array                  |65.74      |85.86
 |2022-01-05 |0056. Merge Intervals.                             |Medium |Array                  |15.74      |7.51
 |2022-01-05 |0061. Rotate List.                                 |Medium |Linked List            |97.85      |85.68
+|2022-01-05 |0062. Unique Paths.                                |Medium |Dynamic Programming    |86.28      |38.41
 
 
 
