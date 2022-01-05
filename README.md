@@ -69,6 +69,7 @@
 |2022-01-05 |0033. Search In Rotated Sorted Array.              |Medium |Search                 |76.36      |56.28
 |2022-01-05 |0039. Combination Sum.                             |Medium |Recursion              |82.24      |52.23
 |2022-01-05 |0040. Combination SumII.                           |Medium |Recursion              |59.83      |98.81
+|2022-01-05 |0046. Permutations.                                |Medium |Recursion              |88.84      |71.65
 
 
 
