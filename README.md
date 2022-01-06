@@ -78,6 +78,7 @@
 |2022-01-06 |0063. Unique PathsII.                              |Medium |Dynamic Programming    |61.02      |35.28
 |2022-01-06 |0073. Set Matrix Zeros.                            |Medium |Array                  |33.10      |91.77
 |2022-01-06 |0078. Subsets.                                     |Medium |Recursion              |83.26      |52.78
+|2022-01-06 |0079. Word Search.                                 |Medium |Recursion              |81.32      |74.48
 
 
 
