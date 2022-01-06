@@ -76,6 +76,7 @@
 |2022-01-05 |0061. Rotate List.                                 |Medium |Linked List            |97.85      |85.68
 |2022-01-05 |0062. Unique Paths.                                |Medium |Dynamic Programming    |86.28      |38.41
 |2022-01-06 |0063. Unique PathsII.                              |Medium |Dynamic Programming    |61.02      |35.28
+|2022-01-06 |0073. Set Matrix Zeros.                            |Medium |Array                  |33.10      |91.77
 
 
 
