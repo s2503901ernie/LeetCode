@@ -89,6 +89,7 @@
 |2022-01-09 |0102. Binary Tree Level Order Traversal.           |Medium |Binary Tree            |85.76      |22.75
 |2022-01-09 |0103. Binary Tree Zigzag Level Order Traversal.    |Medium |Binary Tree            |74.47      |43.96
 |2022-01-09 |0113. Path SumII.                                  |Medium |Binary Tree            |97.44      |31.40
+|2022-01-09 |0129. Sum Root to Leaf Numbers.                    |Medium |Binary Tree            |67.79      |79.01
      
 
 
