@@ -85,6 +85,7 @@
 |2022-01-08 |0092. Reverse Linked ListII.                       |Medium |Linked List            |96.62      |90.42
 |2022-01-08 |0093. Restore IP Addresses.                        |Medium |String                 |96.12      |66.07
 |2022-01-08 |0094. Binary Tree Inorder Traversal.               |Easy   |Binary Tree            |65.65      |47.92
+|2022-01-08 |0098. Validate Binary Search Tree.                 |Medium |Binary Search Tree     |27.34      |94.90
      
 
 
