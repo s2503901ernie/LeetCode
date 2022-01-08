@@ -86,6 +86,7 @@
 |2022-01-08 |0093. Restore IP Addresses.                        |Medium |String                 |96.12      |66.07
 |2022-01-08 |0094. Binary Tree Inorder Traversal.               |Easy   |Binary Tree            |65.65      |47.92
 |2022-01-08 |0098. Validate Binary Search Tree.                 |Medium |Binary Search Tree     |27.34      |94.90
+|2022-01-09 |0102. Binary Tree Level Order Traversal.           |Medium |Binary Tree            |85.76      |22.75
      
 
 
