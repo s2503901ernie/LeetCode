@@ -92,7 +92,7 @@
 |2022-01-09 |0129. Sum Root to Leaf Numbers.                    |Medium |Binary Tree            |67.79      |79.01
 |2022-01-09 |0130. Surrounded Regions.                          |Medium |Graph, Recursion       |33.83/56.22|99.95/65.20     
 |2022-01-09 |0131. Palindrome Partitioning.                     |Medium |String, Recursion      |83.60      |95.48
-
+|2022-01-09 |0144. Binary Tree Preorder Traversal.              |Easy   |Binary Tree            |65.41      |75.08
 
 
 
