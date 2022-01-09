@@ -94,6 +94,7 @@
 |2022-01-09 |0131. Palindrome Partitioning.                     |Medium |String, Recursion      |83.60      |95.48
 |2022-01-09 |0144. Binary Tree Preorder Traversal.              |Easy   |Binary Tree            |65.41      |75.08
 |2022-01-09 |0147. Insertion Sort List.                         |Medium |Linked List            |48.62      |89.76
+|2022-01-09 |0150. Evaluate Reverse Polish Notation.            |Medium |Stack                  |94.85      |72.52
 
 
 
