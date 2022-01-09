@@ -95,7 +95,7 @@
 |2022-01-09 |0144. Binary Tree Preorder Traversal.              |Easy   |Binary Tree            |65.41      |75.08
 |2022-01-09 |0147. Insertion Sort List.                         |Medium |Linked List            |48.62      |89.76
 |2022-01-09 |0150. Evaluate Reverse Polish Notation.            |Medium |Stack                  |94.85      |72.52
-
+|2022-01-09 |0199. Binary Tree Right Side View.                 |Medium |Binary Tree            |90.85      |80.10
 
 
 
