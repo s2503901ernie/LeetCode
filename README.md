@@ -97,6 +97,8 @@
 |2022-01-09 |0150. Evaluate Reverse Polish Notation.            |Medium |Stack                  |94.85      |72.52
 |2022-01-09 |0199. Binary Tree Right Side View.                 |Medium |Binary Tree            |90.85      |80.10
 |2022-01-09 |0200. Number of Islands.                           |Medium |Graph, Recursion       |48.54/91.89|53.89/93.33
+|2022-01-09 |0208. Implement Trie (Prefix Tree).                |Medium |Trie                   |80.34      |75.70
+
 
 
 
