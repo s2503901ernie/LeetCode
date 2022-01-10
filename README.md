@@ -105,6 +105,9 @@
 |2022-01-10 |0227. Basic CalculatorII                           |Medium |Stack                  |99.90      |30.77
 |2022-01-10 |0169. Majority Element.                            |Easy   |Array, Math            |39.43      |54.50
 |2022-01-10 |0229. Majority ElementII.                          |Medium |Array, Math            |41.98      |91.34
+|2022-01-10 |0230. Kth Smallest Element In a BST.               |Medium |Binary Search Tree     |66.73      |17.04
+
+
 
 
 
