@@ -103,6 +103,7 @@
 |2022-01-10 |0211. Design Add and Search Words Data Structure.  |Medium |Trie, Recursion        |6.23       |66.48
 |2022-01-10 |0215. Kth Largest Element In an Array.             |Medium |Array                  |90.42      |48.57
 |2022-01-10 |0227. Basic CalculatorII                           |Medium |Stack                  |99.90      |30.77
+|2022-01-10 |0169. Majority Element.                            |Easy   |Array                  |39.43      |54.50
 
 
 
