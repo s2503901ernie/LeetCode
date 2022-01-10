@@ -101,6 +101,7 @@
 |2022-01-09 |0209. Minimum Size Subarray Sum.                   |Medium |Array, Slide Window    |61.57      |75.88
 |2022-01-09 |0257. Binary Tree Paths.                           |Easy   |Binary Tree            |49.40      |29.49
 |2022-01-10 |0211. Design Add and Search Words Data Structure.  |Medium |Trie, Recursion        |6.23       |66.48
+|2022-01-10 |0215. Kth Largest Element In an Array.             |Medium |Array                  |90.42      |48.57
 
 
 
