@@ -108,6 +108,8 @@
 |2022-01-10 |0230. Kth Smallest Element In a BST.               |Medium |Binary Search Tree     |66.73      |17.04
 |2022-01-11 |0236. Lowest Common Ancestor of Binary Tree.       |Medium |Binary Tree            |95.01      |58.80
 |2022-01-12 |0238. Product of Array Except Self.                |Medium |Array                  |86.32      |81.50
+|2022-01-12 |0240. Search a 2D MatrixII.                        |Medium |Array                  |87.14      |73.45
+
 
 
 
