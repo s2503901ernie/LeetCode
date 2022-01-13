@@ -110,6 +110,8 @@
 |2022-01-12 |0238. Product of Array Except Self.                |Medium |Array                  |86.32      |81.50
 |2022-01-12 |0240. Search a 2D MatrixII.                        |Medium |Array                  |87.14      |73.45
 |2022-01-13 |0145. Binary Tree Postorder Traversal.             |Easy   |Binary Tree            |87.55      |47.63
+|2022-01-13 |0225. Implement Stack Using Queue                  |Easy   |Stack                  |94.45      |72.21
+
 
 
 
