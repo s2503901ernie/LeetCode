@@ -112,7 +112,7 @@
 |2022-01-13 |0145. Binary Tree Postorder Traversal.             |Easy   |Binary Tree            |87.55      |47.63
 |2022-01-13 |0225. Implement Stack Using Queue                  |Easy   |Stack                  |94.45      |72.21
 |2022-01-14 |0404. Sum of Left Leaves.                          |Easy   |Binary Tree            |53.41      |73.93
-
+|2022-01-14 |0409. Longest Palindrome.                          |Easy   |String                 |78.22      |83.05
 
 
 
