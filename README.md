@@ -10,6 +10,8 @@
 |2021-05-13 |Ambiguous Coordinates                    |40ms       |14.2 MB
 |2021-05-14 |Flatten Binary Tree to Linked List       |28ms       |15.4 MB
 |2022-01-04 |Complement of Base10 Integer             |52ms       |13.9 MB
+|2022-01-14 |Minimum Number of Arrows to Brust Ballons|96.79        |10.52
+
 
     
 ## Problems
