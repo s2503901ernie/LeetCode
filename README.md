@@ -116,6 +116,7 @@
 |2022-01-14 |0404. Sum of Left Leaves.                          |Easy   |Binary Tree            |53.41      |73.93
 |2022-01-14 |0409. Longest Palindrome.                          |Easy   |String                 |78.22      |83.05
 |2022-01-14 |0412. Fizz Buzz.                                   |Easy   |Math                   |86.86      |24.17
+|2022-01-15 |0328. Odd Even Linked List.                        |Medium |Linked List            |31.77      |13.42
 
 
 
