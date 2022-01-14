@@ -11,6 +11,8 @@
 |2021-05-14 |Flatten Binary Tree to Linked List       |28ms       |15.4 MB
 |2022-01-04 |Complement of Base10 Integer             |52ms       |13.9 MB
 |2022-01-14 |Minimum Number of Arrows to Brust Ballons|96.79        |10.52
+|2022-01-15 |String to Integer atoi                   |86.85        |57.28
+
 
 
     
@@ -117,7 +119,6 @@
 |2022-01-14 |0409. Longest Palindrome.                          |Easy   |String                 |78.22      |83.05
 |2022-01-14 |0412. Fizz Buzz.                                   |Easy   |Math                   |86.86      |24.17
 |2022-01-15 |0328. Odd Even Linked List.                        |Medium |Linked List            |31.77      |13.42
-
 
 
 
