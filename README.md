@@ -120,6 +120,7 @@
 |2022-01-14 |0412. Fizz Buzz.                                   |Easy   |Math                   |86.86      |24.17
 |2022-01-15 |0328. Odd Even Linked List.                        |Medium |Linked List            |31.77      |13.42
 |2022-01-15 |0331. Verify Preorder Serialization of a BT.       |Medium |Binary Tree, Stack     |86.89      |67.91
+|2022-01-15 |0334. Increasing Triplet Subsequence.              |Medium |Greedy                 |63.87      |81.68
 
 
 
