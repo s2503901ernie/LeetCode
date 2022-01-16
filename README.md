@@ -12,7 +12,7 @@
 |2022-01-04 |Complement of Base10 Integer             |52ms       |13.9 MB
 |2022-01-14 |Minimum Number of Arrows to Brust Ballons|96.79        |10.52
 |2022-01-15 |String to Integer atoi                   |86.85        |57.28
-|2022-01-15 |Maximize Distance to Closest Person.     |67.94        |25.91
+|2022-01-16 |Maximize Distance to Closest Person.     |67.94        |25.91
 
 
 
@@ -123,6 +123,7 @@
 |2022-01-15 |0328. Odd Even Linked List.                        |Medium |Linked List            |31.77      |13.42
 |2022-01-15 |0331. Verify Preorder Serialization of a BT.       |Medium |Binary Tree, Stack     |86.89      |67.91
 |2022-01-15 |0334. Increasing Triplet Subsequence.              |Medium |Greedy                 |63.87      |81.68
+|2022-01-16 |0337. House RobberIII.                             |Medium |Binary Tree, DP        |78.47      |57.10
 
 
 
