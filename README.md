@@ -12,6 +12,8 @@
 |2022-01-04 |Complement of Base10 Integer             |52ms       |13.9 MB
 |2022-01-14 |Minimum Number of Arrows to Brust Ballons|96.79        |10.52
 |2022-01-15 |String to Integer atoi                   |86.85        |57.28
+|2022-01-15 |Maximize Distance to Closest Person.     |67.94        |25.91
+
 
 
 
