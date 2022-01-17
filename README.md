@@ -1,19 +1,19 @@
 # LeetCode
 ## Daily challenge
 
-|Date       |Title                                    | Runtime   | Used memory
-|:---------:|:---------------:                        |:---------:|-------------
-|2021-05-04 |Non-decreasing array                     |160ms      | 15.5 MB
-|2021-05-05 |Jump Game II.                            | 20ms      | 14.3 MB
-|2021-05-06 |Convert Sorted List to Binary Search Tree|132ms      |20.4 MB
-|2021-05-12 |Range Sum Query 2D - Immutable           |1406ms     |16.6 MB
-|2021-05-13 |Ambiguous Coordinates                    |40ms       |14.2 MB
-|2021-05-14 |Flatten Binary Tree to Linked List       |28ms       |15.4 MB
-|2022-01-04 |Complement of Base10 Integer             |52ms       |13.9 MB
-|2022-01-14 |Minimum Number of Arrows to Brust Ballons|96.79        |10.52
-|2022-01-15 |String to Integer atoi                   |86.85        |57.28
-|2022-01-16 |Maximize Distance to Closest Person.     |67.94        |25.91
-
+|Date       |Title                                          | Runtime   | Used memory
+|:---------:|:---------------:                              |:---------:|-------------
+|2021-05-04 |Non-decreasing array                           |160ms      |15.5 MB
+|2021-05-05 |Jump Game II.                                  |20ms       |14.3 MB
+|2021-05-06 |Convert Sorted List to Binary Search Tree      |132ms      |20.4 MB
+|2021-05-12 |Range Sum Query 2D - Immutable                 |1406ms     |16.6 MB
+|2021-05-13 |Ambiguous Coordinates                          |40ms       |14.2 MB
+|2021-05-14 |Flatten Binary Tree to Linked List             |28ms       |15.4 MB
+|2022-01-04 |Complement of Base10 Integer                   |52ms       |13.9 MB
+|2022-01-14 |0452. Minimum Number of Arrows to Brust Ballons|96.79      |10.52
+|2022-01-15 |0008. String to Integer atoi.                  |86.85      |57.28
+|2022-01-16 |0849. Maximize Distance to Closest Person.     |67.94      |25.91
+|2022-01-17 |0290. Word Pattern.                            |99.91      |55.31
 
 
 
