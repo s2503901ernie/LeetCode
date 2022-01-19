@@ -129,6 +129,8 @@
 |2022-01-16 |0198. House Robber.                                |Medium |Dynamic Programming    |17.64      |93.18
 |2022-01-16 |0213. House RobberII.                              |Medium |Dynamic Programming    |89.54      |24.54
 |2022-01-17 |0070. Climbing Stairs.                             |Easy   |Dynamic Programming    |99.18      |44.95
+|2022-01-19 |0136. Single Number.                               |Easy   |Bit Manipulation       |87.96      |86.27
+
 
 
 
