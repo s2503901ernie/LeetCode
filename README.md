@@ -15,7 +15,7 @@
 |2022-01-16 |0849. Maximize Distance to Closest Person.     |67.94      |25.91
 |2022-01-17 |0290. Word Pattern.                            |99.91      |55.31
 |2022-01-18 |0605. Can Place Flowers.                       |98.89      |84.06
-
+|2022-01-19 |0142. Linked List CycleII.                     |71.87      |82.54
 
 
 
