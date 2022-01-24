@@ -134,6 +134,7 @@
 |2022-01-24 |0380. Insert Delete Get Random O(1)                |Medium |Array, Hash Table      |98.15      |27.05
 |2022-01-24 |0434. Number of Segment in a String.               |Easy   |String                 |85.09      |39.84
 |2022-01-24 |0441. Arranging Coins.                             |Easy   |Math                   |54.43      |87.81
+|2022-01-24 |0394. Decode String.                               |Medium |Stack                  |85.23      |53.01
 
 
 
