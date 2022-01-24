@@ -131,6 +131,7 @@
 |2022-01-17 |0070. Climbing Stairs.                             |Easy   |Dynamic Programming    |99.18      |44.95
 |2022-01-19 |0136. Single Number.                               |Easy   |Bit Manipulation       |87.96      |86.27
 |2022-01-22 |0258. Add Digits.                                  |Easy   |Math                   |36.94      |73.87
+|2022-01-24 |0380. Insert Delete Get Random O(1)                |Medium |Array, Hash Table      |98.15      |27.05
 
 
 
