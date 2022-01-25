@@ -138,7 +138,7 @@
 |2022-01-24 |0434. Number of Segment in a String.               |Easy   |String                 |85.09      |39.84
 |2022-01-24 |0441. Arranging Coins.                             |Easy   |Math                   |54.43      |87.81
 |2022-01-24 |0394. Decode String.                               |Medium |Stack                  |85.23      |53.01
-
+|2022-01-25 |0448. Find All Numbers Disappeared In a Array.     |Easy   |Array                  |96.25      |34.16          
 
 
 
