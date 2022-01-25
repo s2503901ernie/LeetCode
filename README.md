@@ -17,6 +17,7 @@
 |2022-01-18 |0605. Can Place Flowers.                       |98.89      |84.06
 |2022-01-19 |0142. Linked List CycleII.                     |71.87      |82.54
 |2022-01-25 |0520. Detect Capital.                          |75.64      |74.81
+|2022-01-25 |0941. Valid Mountain Array.                    |80.42      |18.42
 
 
 
