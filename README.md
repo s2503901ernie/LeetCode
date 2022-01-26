@@ -140,6 +140,7 @@
 |2022-01-24 |0394. Decode String.                               |Medium |Stack                  |85.23      |53.01
 |2022-01-25 |0448. Find All Numbers Disappeared In a Array.     |Easy   |Array                  |96.25      |34.16          
 |2022-01-26 |0415. Partition Equal Subset Sum.                  |Medium |Dynamic Programming    |69.53      |94.10
+|2022-01-26 |0322. Coin Change.                                 |Medium |Dynamic Programming    |71.71      |48.82
 
 
 
