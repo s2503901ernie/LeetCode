@@ -139,6 +139,8 @@
 |2022-01-24 |0441. Arranging Coins.                             |Easy   |Math                   |54.43      |87.81
 |2022-01-24 |0394. Decode String.                               |Medium |Stack                  |85.23      |53.01
 |2022-01-25 |0448. Find All Numbers Disappeared In a Array.     |Easy   |Array                  |96.25      |34.16          
+|2022-01-26 |0415. Partition Equal Subset Sum.                  |Medium |Dynamic Programming    |69.53      |94.10
+
 
 
 
