@@ -143,6 +143,8 @@
 |2022-01-26 |0322. Coin Change.                                 |Medium |Dynamic Programming    |71.71      |48.82
 |2022-01-27 |0300. Longest Increasing Subsequence.              |Medium |Dynamic Programming    |60.60      |99.21
 |2022-02-09 |0171. Excel Sheet Column Number.                   |Easy   |String                 |95.43      |80.03
+|2022-02-09 |0105. Construct BT from Preorder and Inorder       |Medium |Binary Tree            |46.39      |16.02
+
 
 
 
