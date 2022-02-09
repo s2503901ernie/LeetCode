@@ -144,6 +144,7 @@
 |2022-01-27 |0300. Longest Increasing Subsequence.              |Medium |Dynamic Programming    |60.60      |99.21
 |2022-02-09 |0171. Excel Sheet Column Number.                   |Easy   |String                 |95.43      |80.03
 |2022-02-09 |0105. Construct BT from Preorder and Inorder       |Medium |Binary Tree            |46.39      |16.02
+|2022-02-09 |0106. Construct BT from Inorder and Postorder      |Medium |Binary Tree            |36.84      |12.70
 
 
 
