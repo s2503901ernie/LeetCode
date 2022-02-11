@@ -19,6 +19,7 @@
 |2022-01-25 |0520. Detect Capital.                          |75.64      |74.81
 |2022-01-25 |0941. Valid Mountain Array.                    |80.42      |18.42
 |2022-01-26 |1305. All Elements In Two Binary Search Tree.  |60.41      |62.08
+|2022-02-11 |0567. Premutation in String.                   |92.93      |83.82   
 
 
 
