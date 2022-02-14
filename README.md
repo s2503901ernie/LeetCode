@@ -21,6 +21,7 @@
 |2022-01-26 |1305. All Elements In Two Binary Search Tree.  |60.41      |62.08
 |2022-02-11 |0567. Premutation in String.                   |92.93      |83.82 
 |2022-02-13 |0078. Subsets.                                 |91.98      |82.34
+|2022-02-14 |0104. Maximum Depth Binary Tree.               |76.53      |8.26
 
 
 
