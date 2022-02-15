@@ -100,3 +100,39 @@ class Solution:
             return dummy
         else:
             return dummy.next
+
+
+class Solution2:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        stack1 = []
+        stack2 = []
+        cur = l1
+        while cur:
+            stack1.append(cur.val)
+            cur = cur.next
+        cur = l2
+        while cur:
+            stack2.append(cur.val)
+            cur = cur.next
+        carry = 0
+        cur = None
+        while stack1 or stack2 or carry:
+            if stack1:
+                num1 = stack1.pop()
+            else:
+                num1 = 0
+            if stack2:
+                num2 = stack2.pop()
+            else:
+                num2 = 0
+            num = num1 + num2 + carry
+            if num >= 10:
+                num -= 10
+                carry = 1
+            else:
+                carry = 0
+            prev = ListNode(num)
+            prev.next = cur
+            cur = prev
+
+        return cur
