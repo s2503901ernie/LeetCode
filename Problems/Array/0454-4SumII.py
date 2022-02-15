@@ -39,14 +39,14 @@ class Solution:
             for j in nums2:
                 current = i + j
                 if current not in pairs:
-                    pairs[current] = [[i, j]]
+                    pairs[current] = 1
                 else:
-                    pairs[current].append([i, j])
+                    pairs[current] += 1
 
         for i in nums3:
             for j in nums4:
                 current = i + j
                 if 0 - current in pairs:
-                    ans += len(pairs[0 - current])
+                    ans += pairs[0 - current]
 
         return ans
