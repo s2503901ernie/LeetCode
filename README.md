@@ -22,6 +22,8 @@
 |2022-02-11 |0567. Premutation in String.                   |92.93      |83.82 
 |2022-02-13 |0078. Subsets.                                 |91.98      |82.34
 |2022-02-14 |0104. Maximum Depth Binary Tree.               |76.53      |8.26
+|2022-02-15 |0136. Single Number.                           |86.40      |68.96
+
 
 
 
