@@ -24,6 +24,7 @@
 |2022-02-14 |0104. Maximum Depth Binary Tree.               |76.53      |8.26
 |2022-02-15 |0136. Single Number.                           |86.40      |68.96
 |2022-02-16 |0024. Swap Nodes in Pairs.                     |62.34      |75.41
+|2022-02-17 |0039. Combination Sum.                         |87.71      |97.98
 
 
 
