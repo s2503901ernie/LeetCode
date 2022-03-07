@@ -27,6 +27,7 @@
 |2022-02-17 |0039. Combination Sum.                         |87.71      |97.98
 |2022-02-21 |0169. Majority Element.                        |80.55      |43.74
 |2022-02-22 |0171. Excel Sheet Column Number                |77.88      |83.72
+|2022-03-07 |0021. Merge two Sorted List                    |97.89      |89.81
 
 
 
