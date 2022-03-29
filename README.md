@@ -29,7 +29,7 @@
 |2022-02-22 |0171. Excel Sheet Column Number                |77.88      |83.72
 |2022-03-07 |0021. Merge two Sorted List                    |97.89      |89.81
 |2022-03-28 |0081. Search in Rotated Sorted ArrayII.        |88.54      |95.32
-
+|2022-03-29 |0287. Find the Duplicate Number.               |50.41      |59.49
 
 
 
