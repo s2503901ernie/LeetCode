@@ -30,6 +30,7 @@
 |2022-03-07 |0021. Merge two Sorted List                    |97.89      |89.81
 |2022-03-28 |0081. Search in Rotated Sorted ArrayII.        |88.54      |95.32
 |2022-03-29 |0287. Find the Duplicate Number.               |50.41      |59.49
+|2022-03-30 |0074. Search a 2D Matrix.                      |97.74      |90.46
 
 
 
