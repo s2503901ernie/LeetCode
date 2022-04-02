@@ -32,6 +32,7 @@
 |2022-03-29 |0287. Find the Duplicate Number.               |  50.41  |59.49
 |2022-03-30 |0074. Search a 2D Matrix.                      |  97.74  |90.46
 |2022-04-01 |0344. Reverse String.                          |  85.34  |48.50
+|2022-04-02 |0680. Valid Palindrome II                      |  92.87  |91.68
 
 
 
