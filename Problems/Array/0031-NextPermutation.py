@@ -49,7 +49,7 @@ class Solution:
         # If all string is decreasing then it's the last permutation
         if idx == 0:
             nums.sort()
-            return 
+            return
         # Assign the left index of the decreasing pattern
         pivot = idx - 1
         idx = len(nums) - 1
