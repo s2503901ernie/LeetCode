@@ -33,6 +33,7 @@
 |2022-03-30 |0074. Search a 2D Matrix.                      |  97.74  |90.46
 |2022-04-01 |0344. Reverse String.                          |  85.34  |48.50
 |2022-04-02 |0680. Valid Palindrome II                      |  92.87  |91.68
+|2022-04-03 |0031. Next Permutation.                        |  43.54  |79.00
 
 
 
@@ -167,7 +168,7 @@
 |2022-02-11 |0347. Top K Frequent Elements.                     |Medium |Array                  |5.05       |99.57
 |2022-02-15 |0445. Add Two NumbersII.                           |Medium |Linked List            |74.90      |72.69
 |2022-02-15 |0454. 4 Sum II.                                    |Medium |Array                  |86.03      |80.36
-
+|2022-04-03 |0031. Next Permutation.                            |Medium |Array                  |43.54      |79.00
 
 
 
