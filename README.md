@@ -34,6 +34,7 @@
 |2022-04-01 |0344. Reverse String.                          |  85.34  |48.50
 |2022-04-02 |0680. Valid Palindrome II                      |  92.87  |91.68
 |2022-04-03 |0031. Next Permutation.                        |  43.54  |79.00
+|2022-04-04 |1721. Swapping Nodes In a LinkedList           |  76.54  |85.24
 
 
 
@@ -169,7 +170,7 @@
 |2022-02-15 |0445. Add Two NumbersII.                           |Medium |Linked List            |74.90      |72.69
 |2022-02-15 |0454. 4 Sum II.                                    |Medium |Array                  |86.03      |80.36
 |2022-04-03 |0031. Next Permutation.                            |Medium |Array                  |43.54      |79.00
-
+|2022-04-04 |1721. Swapping Nodes In a Linked List.             |Medium |Linked List            |76.54      |85.24
 
 
 
