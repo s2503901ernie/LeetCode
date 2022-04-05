@@ -86,6 +86,8 @@ class Solution2:
                     pairs[current].append(pair)
 
             for j in range(i+1, len(nums)):
+                if j > i+1 and nums[j] == nums[j-1]:
+                    continue
                 current = nums[j] + nums[i]
                 diff = target - current
                 if diff in pairs:
