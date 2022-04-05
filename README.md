@@ -172,6 +172,7 @@
 |2022-02-15 |0454. 4 Sum II.                                    |Medium |Array                  |86.03      |80.36
 |2022-04-03 |0031. Next Permutation.                            |Medium |Array                  |43.54      |79.00
 |2022-04-04 |1721. Swapping Nodes In a Linked List.             |Medium |Linked List            |76.54      |85.24
+|2022-04-05 |0018. 4 Sum.                                       |Medium |Array                  |39.46      |95.08
 
 
 
