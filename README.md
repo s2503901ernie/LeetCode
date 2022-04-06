@@ -36,6 +36,7 @@
 |2022-04-03 |0031. Next Permutation.                        |  43.54  |79.00
 |2022-04-04 |1721. Swapping Nodes In a LinkedList           |  76.54  |85.24
 |2022-04-05 |0011. Container With Most Water                |  49.49  |89.15
+|2022-04-06 |0923. 3 Sum With Multiplicity.                 |59.30    |22.67
 
 
 
@@ -173,6 +174,7 @@
 |2022-04-03 |0031. Next Permutation.                            |Medium |Array                  |43.54      |79.00
 |2022-04-04 |1721. Swapping Nodes In a Linked List.             |Medium |Linked List            |76.54      |85.24
 |2022-04-05 |0018. 4 Sum.                                       |Medium |Array                  |39.46      |95.08
+|2022-04-06 |0971. 3 Sum With Multiplicity.                     |Medium |Array                  |86.05      |62.21
 
 
 
