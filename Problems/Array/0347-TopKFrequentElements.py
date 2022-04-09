@@ -20,6 +20,7 @@ Constraints:
 k is in the range [1, the number of unique elements in the array].
 It is guaranteed that the answer is unique.
 """
+from typing import List
 
 
 class Solution:
@@ -34,5 +35,25 @@ class Solution:
         for i in range(k):
             ans.append(max(board, key=board.get))
             board.pop(ans[-1])
+
+        return ans
+
+
+class Solution2:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        board = {}
+        ans = []
+        for num in nums:
+            board[num] = board.setdefault(num, 0) + 1
+        buckets = [[]for _ in range(len(nums)+1)]
+        for key, freq in board.items():
+            buckets[freq].append(key)
+        for i in range(len(buckets)-1, -1, -1):
+            bucket = buckets[i]
+            if bucket:
+                for num in bucket:
+                    ans.append(num)
+            if len(ans) == k:
+                break
 
         return ans

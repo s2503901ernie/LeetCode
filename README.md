@@ -38,6 +38,7 @@
 |2022-04-05 |0011. Container With Most Water                |  49.49  |89.15
 |2022-04-06 |0923. 3 Sum With Multiplicity.                 |  59.30  |22.67
 |2022-04-07 |1046. Last Stone Weight.                       |99.27    |29.30
+|2022-04-09 |0347. Top K Frequent Elements.                 |80.84    |17.37
 
 
     
