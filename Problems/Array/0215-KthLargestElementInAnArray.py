@@ -21,17 +21,11 @@ Constraints:
 1 <= k <= nums.length <= 10^4
 -10^4 <= nums[i] <= 10^4
 """
+from typing import List
 
 
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         nums.sort()
-        i = len(nums) - 1
-        n = 1
-        while i >= 0:
-            n += 1
-            i -= 1
-            if n == k:
-                break
 
-        return nums[i]
+        return nums[-k]
