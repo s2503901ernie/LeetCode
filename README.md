@@ -4,12 +4,12 @@
 |Date       |Title                                          | Runtime | Used memory
 |:---------:|:---------------:                              |:-------:|-------------
 |2021-05-04 |Non-decreasing array                           |  160ms  |15.5 MB
-|2021-05-05 |Jump Game II.                                  |   20ms  |14.3 MB
+|2021-05-05 |Jump Game II.                                  |  20ms   |14.3 MB
 |2021-05-06 |Convert Sorted List to Binary Search Tree      |  132ms  |20.4 MB
-|2021-05-12 |Range Sum Query 2D - Immutable                 |  1406ms |16.6 MB
-|2021-05-13 |Ambiguous Coordinates                          |   40ms  |14.2 MB
-|2021-05-14 |Flatten Binary Tree to Linked List             |   28ms  |15.4 MB
-|2022-01-04 |Complement of Base10 Integer                   |   52ms  |13.9 MB
+|2021-05-12 |Range Sum Query 2D - Immutable                 | 1406ms  |16.6 MB
+|2021-05-13 |Ambiguous Coordinates                          |  40ms   |14.2 MB
+|2021-05-14 |Flatten Binary Tree to Linked List             |  28ms   |15.4 MB
+|2022-01-04 |Complement of Base10 Integer                   |  52ms   |13.9 MB
 |2022-01-14 |0452. Minimum Number of Arrows to Brust Ballons|  96.79  |10.52
 |2022-01-15 |0008. String to Integer atoi.                  |  86.85  |57.28
 |2022-01-16 |0849. Maximize Distance to Closest Person.     |  67.94  |25.91
@@ -37,8 +37,9 @@
 |2022-04-04 |1721. Swapping Nodes In a LinkedList           |  76.54  |85.24
 |2022-04-05 |0011. Container With Most Water                |  49.49  |89.15
 |2022-04-06 |0923. 3 Sum With Multiplicity.                 |  59.30  |22.67
-|2022-04-07 |1046. Last Stone Weight.                       |99.27    |29.30
-|2022-04-09 |0347. Top K Frequent Elements.                 |80.84    |17.37
+|2022-04-07 |1046. Last Stone Weight.                       |  99.27  |29.30
+|2022-04-09 |0347. Top K Frequent Elements.                 |  80.84  |17.37
+|2022-04-10 |0682. Baseball Game.                           |  72.54  |95.48
 
 
     
@@ -177,6 +178,7 @@
 |2022-04-05 |0018. 4 Sum.                                       |Medium |Array                  |39.46      |95.08
 |2022-04-06 |0971. 3 Sum With Multiplicity.                     |Medium |Array                  |86.05      |62.21
 |2022-04-07 |1046. Last Stone Weight.                           |Easy   |Array                  |99.27      |29.30
+|2022-04-10 |0682. Baseball Ga,e                                |Easy   |Stack                  |72.54      |95.48
 
 
 
