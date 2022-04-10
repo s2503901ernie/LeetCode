@@ -21,6 +21,7 @@ Constraints:
 1 <= k <= nums.length <= 10^4
 -10^4 <= nums[i] <= 10^4
 """
+from random import randint
 from typing import List
 
 
@@ -29,3 +30,45 @@ class Solution:
         nums.sort()
 
         return nums[-k]
+
+
+class Solution2:
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        length = len(nums)
+        left = 0
+        right = length - 1
+        while True:
+            pos = self.partition(nums, left, right)
+            if pos + k == length:
+                return nums[pos]
+            elif pos + k > length:
+                left = 0
+                right = pos - 1
+            else:
+                left = pos + 1
+
+    def partition(self, nums, left, right) -> int:
+        idx = left
+        while left < right:
+            if nums[left] < nums[right]:
+                nums[idx], nums[left] = nums[left], nums[idx]
+                idx += 1
+            left += 1
+
+        nums[idx], nums[right] = nums[right], nums[idx]
+
+        return idx
+
+
+def main():
+    nums = [randint(1, 15) for _ in range(30)]
+    k = 3
+    sol2 = Solution2()
+    print(nums)
+    ans = sol2.findKthLargest(nums, k)
+    nums.sort()
+    print(ans, nums[-k])
+
+
+if __name__ == '__main__':
+    main()
