@@ -21,6 +21,7 @@ Constraints:
 1 <= k <= nums.length <= 10^4
 -10^4 <= nums[i] <= 10^4
 """
+import time
 from random import randint
 from typing import List
 
@@ -60,14 +61,30 @@ class Solution2:
         return idx
 
 
+class Solution3:
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        for i in range(len(nums)):
+            for j in range(len(nums) - i):
+                if nums[j] > nums[j+1]:
+                    nums[j], nums[j+1] = nums[j+1], nums[j]
+
+        return nums[-k]
+
+
 def main():
-    nums = [randint(1, 15) for _ in range(30)]
-    k = 3
+    start1 = time.perf_counter()
+    nums1 = [randint(1, 20000) for _ in range(30000)]
+    nums2 = nums1.copy()
+    k = 10000
     sol2 = Solution2()
-    print(nums)
-    ans = sol2.findKthLargest(nums, k)
-    nums.sort()
-    print(ans, nums[-k])
+    ans = sol2.findKthLargest(nums1, k)
+    end1 = time.perf_counter()
+    start2 = time.perf_counter()
+    nums2.sort()
+    end2 = time.perf_counter()
+    print(ans, nums2[-k])
+    print(f'quick select spends: {end1 - start1:0.8f}, '
+          f'sort solution spends: {end2 - start2:0.8f}')
 
 
 if __name__ == '__main__':
