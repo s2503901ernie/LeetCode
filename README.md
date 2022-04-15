@@ -42,6 +42,7 @@
 |2022-04-10 | 0682. Baseball Game.                          |  72.54  |95.48
 |2022-04-11 | 1260. Shift 2D Grid.                          |  92.20  |89.14
 |2022-04-13 | 0059. Spiral MatrixII.                        |  91.74  |85.84
+|2022-04-15 | 0669. Trim a Binary Search Tree.              |   80.50  |83.03
 
 
 
@@ -185,6 +186,7 @@
 |2022-04-11 |1260. Shift 2D Grid.                               |Easy   |Array                  |92.20      |89.14
 |2022-04-13 |0059. Spiral MatrixII.                             |Medium |Array                  |91.74      |85.84
 |2022-04-13 |0054. Spiral Matrix.                               |Medium |Array                  |95.64      |98.99
+|2022-04-15 |0669. Trim a Binary Search Tree.                   |Medium |Binary Search Tree     |80.40      |83.03
 
 
 ## Weekly Contest
