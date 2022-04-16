@@ -187,6 +187,9 @@
 |2022-04-13 |0059. Spiral MatrixII.                             |Medium |Array                  |91.74      |85.84
 |2022-04-13 |0054. Spiral Matrix.                               |Medium |Array                  |95.64      |98.99
 |2022-04-15 |0669. Trim a Binary Search Tree.                   |Medium |Binary Search Tree     |80.40      |83.03
+|2022-04-16 |0538. Convert BST to Greater Tree.                 |Medium |Binary Search Tree     |89.60      |97.31
+
+
 
 
 ## Weekly Contest
