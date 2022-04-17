@@ -43,6 +43,7 @@
 |2022-04-11 | 1260. Shift 2D Grid.                          |  92.20  |89.14
 |2022-04-13 | 0059. Spiral MatrixII.                        |  91.74  |85.84
 |2022-04-15 | 0669. Trim a Binary Search Tree.              |   80.50  |83.03
+|2022-04-17 | 0897. Increasing Order Search Tree.           |   78.67   |90.59
 
 
 
@@ -189,7 +190,7 @@
 |2022-04-15 |0669. Trim a Binary Search Tree.                   |Medium |Binary Search Tree     |80.40      |83.03
 |2022-04-16 |0538. Convert BST to Greater Tree.                 |Medium |Binary Search Tree     |89.60      |97.31
 |2022-04-16 |0958. Check Completeness of a Binary Tree          |Medium |Binary Search Tree     |62.94      |72.92
-
+|2022-04-17 |0897. Increasing Order Search Tree.                |Easy   |Binary Tree            |78.67      |90.59
 
 
 
