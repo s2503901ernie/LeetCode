@@ -81,6 +81,6 @@ class Solution3:
             parent = parent.right
             node = node.right
             parent.left = None
-            
+
         return dummy.right
 
