@@ -64,3 +64,23 @@ class Solution2:
         node.right = self.helper(node.right, parent)
 
         return left
+
+
+class Solution3:
+    def increasingBST(self, root: TreeNode) -> TreeNode:
+        node = root
+        parent = TreeNode(0)
+        dummy = parent
+        stack = []
+        while stack or node:
+            while node:
+                stack.append(node)
+                node = node.left
+            node = stack.pop()
+            parent.right = node
+            parent = parent.right
+            node = node.right
+            parent.left = None
+            
+        return dummy.right
+
