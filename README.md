@@ -44,6 +44,7 @@
 |2022-04-13 | 0059. Spiral MatrixII.                        |  91.74  |85.84
 |2022-04-15 | 0669. Trim a Binary Search Tree.              |   80.50  |83.03
 |2022-04-17 | 0897. Increasing Order Search Tree.           |   78.67   |90.59
+|2022-04-18 | 0203. Kth Smallest Element in a BST.          |   82.99   |90.88
 
 
 
