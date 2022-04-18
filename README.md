@@ -192,7 +192,7 @@
 |2022-04-16 |0538. Convert BST to Greater Tree.                 |Medium |Binary Search Tree     |89.60      |97.31
 |2022-04-16 |0958. Check Completeness of a Binary Tree          |Medium |Binary Search Tree     |62.94      |72.92
 |2022-04-17 |0897. Increasing Order Search Tree.                |Easy   |Binary Tree            |78.67      |90.59
-
+|2022-04-18 |0671. Second Minimum Node in a Binary Tree.        |Easy   |Binary Tree            |57.42      |97.81
 
 
 ## Weekly Contest
