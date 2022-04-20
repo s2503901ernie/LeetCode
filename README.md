@@ -197,6 +197,7 @@
 |2022-04-17 |0897. Increasing Order Search Tree.                |Easy   |Binary Tree            |78.67      |90.59
 |2022-04-18 |0671. Second Minimum Node in a Binary Tree.        |Easy   |Binary Tree            |57.42      |97.81
 |2022-04-20 |0173. Binary Search Tree Iterator.                 |Medium |Binary Search Tree     |77.16      |35.61
+|2022-04-20 |0284. Peeking Iterator.                            |Medium |Array                  |81.62      |73.77
 
 
 ## Weekly Contest
