@@ -46,6 +46,8 @@
 |2022-04-17 | 0897. Increasing Order Search Tree.           |   78.67   |90.59
 |2022-04-18 | 0203. Kth Smallest Element in a BST.          |   82.99   |90.88
 |2022-04-19 | 0099. Recover Binary Search Tree.             |   89.25   |94.87
+|2022-04-20 | 0173. Binary Search Tree Iterator.            |   77.61   |34.12
+
 
 
 
@@ -194,6 +196,7 @@
 |2022-04-16 |0958. Check Completeness of a Binary Tree          |Medium |Binary Search Tree     |62.94      |72.92
 |2022-04-17 |0897. Increasing Order Search Tree.                |Easy   |Binary Tree            |78.67      |90.59
 |2022-04-18 |0671. Second Minimum Node in a Binary Tree.        |Easy   |Binary Tree            |57.42      |97.81
+|2022-04-20 |0173. Binary Search Tree Iterator.                 |Medium |Binary Search Tree     |77.16      |35.61
 
 
 ## Weekly Contest
