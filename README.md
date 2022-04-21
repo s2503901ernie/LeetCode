@@ -47,6 +47,7 @@
 |2022-04-18 | 0203. Kth Smallest Element in a BST.          |   82.99   |90.88
 |2022-04-19 | 0099. Recover Binary Search Tree.             |   89.25   |94.87
 |2022-04-20 | 0173. Binary Search Tree Iterator.            |   77.61   |34.12
+|2022-04-21 | 0705. Design Hash Set.                        |   23.42   |5.31
 
 
 
