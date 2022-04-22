@@ -48,7 +48,7 @@
 |2022-04-19 | 0099. Recover Binary Search Tree.             |   89.25   |94.87
 |2022-04-20 | 0173. Binary Search Tree Iterator.            |   77.61   |34.12
 |2022-04-21 | 0705. Design Hash Set.                        |   23.42   |5.31
-
+|2022-04-22 | 0706. Design Hash Map.                        |   84.93   |57.72 
 
 
 
@@ -200,7 +200,7 @@
 |2022-04-20 |0173. Binary Search Tree Iterator.                 |Medium |Binary Search Tree     |77.16      |35.61
 |2022-04-20 |0284. Peeking Iterator.                            |Medium |Array                  |81.62      |73.77
 |2022-04-21 |0116. Populating Next Right Pointers in Each Node. |Medium |Binary Search Tree     |99.82      |22.34
-
+|2022-04-22 |0706. Design Hash Map.                             |Medium |Hash Map               |84.93      |57.72
 
 
 ## Weekly Contest
