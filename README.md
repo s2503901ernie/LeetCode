@@ -49,6 +49,7 @@
 |2022-04-20 | 0173. Binary Search Tree Iterator.            |   77.61   |34.12
 |2022-04-21 | 0705. Design Hash Set.                        |   23.42   |5.31
 |2022-04-22 | 0706. Design Hash Map.                        |   84.93   |57.72 
+|2022-04-23 | 0535. Encode and Decode TinyURL.              |   59.79   |28.27
 
 
 
