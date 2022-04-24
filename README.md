@@ -50,6 +50,7 @@
 |2022-04-21 | 0705. Design Hash Set.                        |   23.42   |5.31
 |2022-04-22 | 0706. Design Hash Map.                        |   84.93   |57.72 
 |2022-04-23 | 0535. Encode and Decode TinyURL.              |   59.79   |28.27
+|2022-04-24 | 1396. Design Underground System.              |   90.36   |98.53
 
 
 
@@ -203,6 +204,7 @@
 |2022-04-21 |0116. Populating Next Right Pointers in Each Node. |Medium |Binary Search Tree     |99.82      |22.34
 |2022-04-22 |0706. Design Hash Map.                             |Medium |Hash Map               |84.93      |57.72
 |2022-04-22 |0191. Number of 1 Bit.                             |Easy   |Bit Manipulation       |96.50      |95.35
+|2022-04-22 |1396. Design Underground System.                   |Medium |Hash Map               |90.36      |98.53
 
 
 
