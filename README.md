@@ -56,6 +56,7 @@
 
 
 
+
     
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -207,7 +208,7 @@
 |2022-04-22 |0706. Design Hash Map.                             |Medium |Hash Map               |84.93      |57.72
 |2022-04-22 |0191. Number of 1 Bit.                             |Easy   |Bit Manipulation       |96.50      |95.35
 |2022-04-22 |1396. Design Underground System.                   |Medium |Hash Map               |90.36      |98.53
-
+|2022-04-25 |0496. Mext Greater Element I.                      |Easy   |Hash Map, Stack        |80.86      |58.58
 
 
 ## Weekly Contest
