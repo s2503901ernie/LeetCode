@@ -52,7 +52,7 @@
 |2022-04-23 | 0535. Encode and Decode TinyURL.                |   59.79   |28.27
 |2022-04-24 | 1396. Design Underground System.                |   90.36   |98.53
 |2022-04-25 | 0284. Peeking Iterator.                         |    28.79    |29.71
-
+|2022-04-27 |1202. Smallest String With Swaps.                  |67.71      |69.64
 
 
 
@@ -209,6 +209,8 @@
 |2022-04-22 |0191. Number of 1 Bit.                             |Easy   |Bit Manipulation       |96.50      |95.35
 |2022-04-22 |1396. Design Underground System.                   |Medium |Hash Map               |90.36      |98.53
 |2022-04-25 |0496. Mext Greater Element I.                      |Easy   |Hash Map, Stack        |80.86      |58.58
+|2022-04-27 |1202. Smallest String With Swaps.                  |Medium |Union Find             |67.61      |69.64
+
 
 
 ## Weekly Contest
