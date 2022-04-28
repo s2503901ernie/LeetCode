@@ -53,7 +53,7 @@
 |2022-04-24 | 1396. Design Underground System.                |   90.36   |98.53
 |2022-04-25 | 0284. Peeking Iterator.                         |    28.79    |29.71
 |2022-04-27 |1202. Smallest String With Swaps.                  |67.71      |69.64
-
+|2022-04-28 |1631. Path With Minumum  Effort.                   |17.71      |96.28
 
 
 
@@ -210,7 +210,7 @@
 |2022-04-22 |1396. Design Underground System.                   |Medium |Hash Map               |90.36      |98.53
 |2022-04-25 |0496. Mext Greater Element I.                      |Easy   |Hash Map, Stack        |80.86      |58.58
 |2022-04-27 |1202. Smallest String With Swaps.                  |Medium |Union Find             |67.61      |69.64
-
+|2022-04-28 |1202. Path With Minimum Effort.                    |Medium |BFS                    |17.71      |96.28
 
 
 ## Weekly Contest
