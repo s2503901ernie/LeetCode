@@ -39,6 +39,7 @@ from typing import List
 
 
 class Solution:
+    """ DFS """
     def isBipartite(self, graph: List[List[int]]) -> bool:
         seen = {}
         for node in range(len(graph)):
@@ -56,5 +57,31 @@ class Solution:
         for v in graph[node]:
             if self.check(graph, v, -color, seen) is False:
                 return False
+
+        return True
+
+
+class Solution2:
+    def isBipartite(self, graph: List[List[int]]) -> bool:
+        """ BFS """
+        seen = {}
+        for i in range(len(graph)):
+            if i not in seen:
+                if self.check(graph, i, 1, seen) is False:
+                    return False
+        return True
+
+    def check(self, graph, node, color, seen):
+        stack = [[node, color]]
+        while stack:
+            cur = stack.pop(0)
+            node, color = cur[0], cur[1]
+            if node in seen:
+                if seen[node] != color:
+                    return False
+                continue
+            seen[node] = color
+            for v in graph[node]:
+                stack.append([v, -color])
 
         return True
