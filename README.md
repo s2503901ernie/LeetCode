@@ -54,6 +54,7 @@
 |2022-04-25 | 0284. Peeking Iterator.                         |    28.79    |29.71
 |2022-04-27 |1202. Smallest String With Swaps.                  |67.71      |69.64
 |2022-04-28 |1631. Path With Minumum  Effort.                   |17.71      |96.28
+|2022-04-29 |0785. Is Graph Bipartite.                          |90.15      |76.07
 
 
     
@@ -211,8 +212,8 @@
 |2022-04-27 |1202. Smallest String With Swaps.                  |Medium |Union Find             |67.61      |69.64
 |2022-04-28 |1202. Path With Minimum Effort.                    |Medium |BFS                    |17.71      |96.28
 |2022-04-29 |0542. 01 Matrix.                                   |Medium |BFS, Graph             |41.33      |52.32
-|2022-04-29 |0994. Rotting Oranges.                             |Medium |BFS. Graph             |25.55      |92.41
-
+|2022-04-29 |0994. Rotting Oranges.                             |Medium |BFS, Graph             |25.55      |92.41
+|2022-04-29 |0785. Is Graph Bipartite.                          |Medium |DFS, Graph             |90.15      |76.07
 
 
 ## Weekly Contest
