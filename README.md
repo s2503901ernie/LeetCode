@@ -56,7 +56,6 @@
 |2022-04-28 |1631. Path With Minumum  Effort.                   |17.71      |96.28
 
 
-
     
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -211,6 +210,9 @@
 |2022-04-25 |0496. Mext Greater Element I.                      |Easy   |Hash Map, Stack        |80.86      |58.58
 |2022-04-27 |1202. Smallest String With Swaps.                  |Medium |Union Find             |67.61      |69.64
 |2022-04-28 |1202. Path With Minimum Effort.                    |Medium |BFS                    |17.71      |96.28
+|2022-04-29 |0542. 01 Matrix.                                   |Medium |BFS, Graph             |41.33      |52.32
+|2022-04-29 |0994. Rotting Oranges.                             |Medium |BFS. Graph             |25.55      |92.41
+
 
 
 ## Weekly Contest
