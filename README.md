@@ -115,7 +115,7 @@
 |2022-01-05 |0033. Search In Rotated Sorted Array.              |Medium |Search                 |76.36      |56.28
 |2022-01-05 |0039. Combination Sum.                             |Medium |Recursion              |82.24      |52.23
 |2022-01-05 |0040. Combination SumII.                           |Medium |Recursion              |59.83      |98.81
-|2022-01-05 |0046. Permutations.                                |Medium |Recursion              |88.84      |71.65
+|2022-01-05 |0046. Permutations.                                |Medium |Recursion              |92.50      |98.08
 |2022-01-05 |0047. PermutationsII.                              |Medium |Recursion              |69.39      |91.41
 |2022-01-05 |0048. Rotate Image.                                |Medium |Array                  |65.74      |85.86
 |2022-01-05 |0056. Merge Intervals.                             |Medium |Array                  |15.74      |7.51
@@ -215,6 +215,8 @@
 |2022-04-29 |0994. Rotting Oranges.                             |Medium |BFS, Graph             |25.55      |92.41
 |2022-04-29 |0785. Is Graph Bipartite.                          |Medium |DFS, Graph             |90.15      |76.07
 |2022-04-30 |0399. Evaluate Division.                           |Medium |DFS, BFS, Grpah        |76.77      |95.43
+|2022-04-30 |0077. Combinations.                                |Medium |DFS                    |48.46      |95.92
+|2022-04-30 |0784. Letter Case Permutation.                     |Medium |DFS                    |68.56      |83.12
 
 
 
