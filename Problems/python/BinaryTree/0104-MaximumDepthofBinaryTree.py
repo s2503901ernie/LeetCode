@@ -26,6 +26,7 @@ Constraints:
 The number of nodes in the tree is in the range [0, 104].
 -100 <= Node.val <= 100
 """
+from typing import Optional
 
 
 # Definition for a binary tree node.
@@ -35,8 +36,8 @@ class TreeNode:
         self.left = left
         self.right = right
 
-
-class Solution:
+class Solution1:
+    """ DFS """
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         depths = []
         self.get_depth(root, 0, depths)
@@ -56,6 +57,7 @@ class Solution:
 
 
 class Solution2:
+    """ DFS """
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         return self.get_depth(root, 0)
 
@@ -66,3 +68,22 @@ class Solution2:
         left_depth = self.get_depth(node.left, depth)
         right_depth = self.get_depth(node.right, depth)
         return max(left_depth, right_depth, depth)
+
+
+class Solution:
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
+        """ BFS """
+        if not root:
+            return 0
+        depth = 0
+        stack = [root]
+        while stack:
+            for i in range(len(stack)):
+                cur = stack.pop(0)
+                if cur.left:
+                    stack.append(cur.left)
+                if cur.right:
+                    stack.append(cur.right)
+            depth += 1
+
+        return depth
