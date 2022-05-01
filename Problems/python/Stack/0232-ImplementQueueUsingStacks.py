@@ -70,6 +70,33 @@ class MyQueue:
         else:
             return False
 
+
+class MyQueue2:
+
+    def __init__(self):
+        self.arr1 = []
+        self.arr2 = []
+
+    def push(self, x: int) -> None:
+        self.arr1.append(x)
+
+    def pop(self) -> int:
+        self.move()
+        return self.arr2.pop()
+
+    def peek(self) -> int:
+        self.move()
+        return self.arr2[-1]
+
+    def empty(self) -> bool:
+        return not self.arr1 and not self.arr2
+
+    def move(self):
+        if not self.arr2:
+            while self.arr1:
+                self.arr2.append(self.arr1.pop())
+
+
 # Your MyQueue object will be instantiated and called as such:
 # obj = MyQueue()
 # obj.push(x)
