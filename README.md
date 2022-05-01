@@ -56,6 +56,7 @@
 |2022-04-28 |1631. Path With Minumum  Effort.                   |17.71      |96.28
 |2022-04-29 |0785. Is Graph Bipartite.                          |90.15      |76.07
 |2022-04-30 |0399. Evaluate Division.                           |76.77      |95.43
+|2022-05-01 |0844. Backspace String Compare                     |48.63      |77.17
 
     
 ## Problems
@@ -217,7 +218,7 @@
 |2022-04-30 |0399. Evaluate Division.                           |Medium |DFS, BFS, Grpah        |76.77      |95.43
 |2022-04-30 |0077. Combinations.                                |Medium |DFS                    |48.46      |95.92
 |2022-04-30 |0784. Letter Case Permutation.                     |Medium |DFS                    |68.56      |83.12
-
+|2022-05-01 |0844. Backspace String Compare.                    |Easy   |Stack                  |48.63      |77.17
 
 
 ## Weekly Contest
