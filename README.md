@@ -57,6 +57,8 @@
 |2022-04-29 |0785. Is Graph Bipartite.                          |90.15      |76.07
 |2022-04-30 |0399. Evaluate Division.                           |76.77      |95.43
 |2022-05-01 |0844. Backspace String Compare                     |48.63      |77.17
+|2022-05-02 |0905. Sort Array By Parity.                        |41.76      |96.65
+
 
     
 ## Problems
@@ -219,6 +221,7 @@
 |2022-04-30 |0077. Combinations.                                |Medium |DFS                    |48.46      |95.92
 |2022-04-30 |0784. Letter Case Permutation.                     |Medium |DFS                    |68.56      |83.12
 |2022-05-01 |0844. Backspace String Compare.                    |Easy   |Stack                  |48.63      |77.17
+|2022-05-02 |0905. Sort Array By Parity.                        |Easy   |Array, Sort            |41.76      |96.65
 
 
 ## Weekly Contest
