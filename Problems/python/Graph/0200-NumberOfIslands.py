@@ -33,6 +33,7 @@ n == grid[i].length
 1 <= m, n <= 300
 grid[i][j] is '0' or '1'.
 """
+from typing import List
 
 
 class Solution:
@@ -67,11 +68,11 @@ class Solution2:
             for col in range(n):
                 if grid[row][col] != "1":
                     continue
-                ans += self.dfs(row, col, grid)
+                ans += self.bfs(row, col, grid)
 
         return ans
 
-    def dfs(self, row, col, grid):
+    def bfs(self, row, col, grid):
         queue = [[row, col]]
         while queue:
             current = queue.pop()
