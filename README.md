@@ -58,7 +58,7 @@
 |2022-04-30 |0399. Evaluate Division.                           |76.77      |95.43
 |2022-05-01 |0844. Backspace String Compare                     |48.63      |77.17
 |2022-05-02 |0905. Sort Array By Parity.                        |41.76      |96.65
-
+|2022-05-03 |0581. Shortest Unsorted Continuous Subarray        |88.29      |54.83
 
     
 ## Problems
@@ -185,7 +185,7 @@
 |2022-02-09 |0106. Construct BT from Inorder and Postorder.     |Medium |Binary Tree            |36.84      |12.70
 |2022-02-09 |0107. Binary Tree Level Order TraversalII.         |Medium |Binary Tree            |91.18      |15.50
 |2022-02-09 |0205. Isomorphic Strings.                          |Easy   |String                 |75.95      |58.37
-|2022-02-09 |0260. Single Number III.                           |Medium |Bit Manipulationq      |84.41      |93.86
+|2022-02-09 |0260. Single Number III.                           |Medium |Bit Manipulation       |84.41      |93.86
 |2022-02-10 |0289. Game of Life.                                |Medium |Array                  |55.41      |90.78
 |2022-02-11 |0438. Find All Anagrams in a String.               |Medium |String                 |83.16      |39.69
 |2022-02-11 |0347. Top K Frequent Elements.                     |Medium |Array                  |5.05       |99.57
@@ -222,6 +222,8 @@
 |2022-04-30 |0784. Letter Case Permutation.                     |Medium |DFS                    |68.56      |83.12
 |2022-05-01 |0844. Backspace String Compare.                    |Easy   |Stack                  |48.63      |77.17
 |2022-05-02 |0905. Sort Array By Parity.                        |Easy   |Array, Sort            |41.76      |96.65
+|2022-05-03 |0190. Reverse Bits.                                |Easy   |Bit Manipulation       |21.83      |94.75
+|2022-05-03 |0581. Shortest Unsorted Continuous Subarray        |Medium |Greedy                 |88.29      |54.83
 
 
 ## Weekly Contest
