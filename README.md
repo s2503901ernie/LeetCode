@@ -224,6 +224,8 @@
 |2022-05-02 |0905. Sort Array By Parity.                        |Easy   |Array, Sort            |41.76      |96.65
 |2022-05-03 |0190. Reverse Bits.                                |Easy   |Bit Manipulation       |21.83      |94.75
 |2022-05-03 |0581. Shortest Unsorted Continuous Subarray        |Medium |Greedy                 |88.29      |54.83
+|2022-05-05 |0034. Find First and Last Position in Sorted Array |Medium |Binary Search          |67.50      |52.11
+
 
 
 ## Weekly Contest
