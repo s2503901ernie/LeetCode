@@ -225,7 +225,7 @@
 |2022-05-03 |0190. Reverse Bits.                                |Easy   |Bit Manipulation       |21.83      |94.75
 |2022-05-03 |0581. Shortest Unsorted Continuous Subarray        |Medium |Greedy                 |88.29      |54.83
 |2022-05-05 |0034. Find First and Last Position in Sorted Array |Medium |Binary Search          |67.50      |52.11
-
+|2022-05-06 |1254. Number of Closed Island.                     |Medium |Graph, BFS             |97.84      |96.89
 
 
 ## Weekly Contest
