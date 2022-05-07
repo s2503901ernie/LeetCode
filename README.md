@@ -59,6 +59,7 @@
 |2022-05-01 |0844. Backspace String Compare                     |48.63      |77.17
 |2022-05-02 |0905. Sort Array By Parity.                        |41.76      |96.65
 |2022-05-03 |0581. Shortest Unsorted Continuous Subarray        |88.29      |54.83
+|2022-05-07 |0456. 132 pattern.                                 |46.21      |95.87
 
     
 ## Problems
@@ -226,6 +227,7 @@
 |2022-05-03 |0581. Shortest Unsorted Continuous Subarray        |Medium |Greedy                 |88.29      |54.83
 |2022-05-05 |0034. Find First and Last Position in Sorted Array |Medium |Binary Search          |67.50      |52.11
 |2022-05-06 |1254. Number of Closed Island.                     |Medium |Graph, BFS             |97.84      |96.89
+|2022-05-07 |0456. 132 pattern.                                 |Medium |Stack                  |46.21      |95.87
 
 
 ## Weekly Contest
