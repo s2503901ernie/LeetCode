@@ -34,6 +34,7 @@ from typing import List
 
 
 class Solution:
+    """ Union """
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
         p = [i for i in range(len(isConnected))]
         b = {}
@@ -59,4 +60,51 @@ class Solution:
                 ans += 1
                 b[find(i)] = True
 
+        return ans
+
+
+class Solution2:
+    """ DFS """
+    def findCircleNum(self, isConnected: List[List[int]]) -> int:
+        b = {}
+        ans = 0
+        def dfs(idx):
+            for i in range(len(isConnected[idx])):
+                if i not in b and isConnected[idx][i] == 1:
+                    b[i] = True
+                    dfs(i)
+
+        for i in range(len(isConnected)):
+            if i not in b:
+                dfs(i)
+                ans += 1
+
+        return ans
+
+
+class Solution3:
+    """ BFS """
+    def findCircleNum(self, isConnected: List[List[int]]) -> int:
+        b = {}
+        ans = 0
+
+        def bfs(i):
+            if i in b:
+                return 0
+            stack = [i]
+            while stack:
+                idx = stack.pop()
+                cur = isConnected[idx]
+                if idx in b:
+                    continue
+                b[idx] = 1
+                for i in range(len(cur)):
+                    if i == idx or i in b or cur[i] == 0:
+                        continue
+                    stack.append(i)
+
+            return 1
+
+        for i in range(len(isConnected)):
+            ans += bfs(i)
         return ans
