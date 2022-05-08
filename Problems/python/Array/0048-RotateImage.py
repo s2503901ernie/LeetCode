@@ -24,6 +24,7 @@ n == matrix.length == matrix[i].length
 1 <= n <= 20
 -1000 <= matrix[i][j] <= 1000
 """
+from typing import List
 
 
 class Solution:
@@ -40,3 +41,18 @@ class Solution:
                     i + j], matrix[i + j][n], matrix[n][n - j]
             i += 1
             n -= 1
+
+
+class Solution2:
+    def rotate(self, matrix: List[List[int]]) -> None:
+        n = len(matrix) - 1
+        start = 0
+        end = 0
+        for _ in range(n):
+            for i in range(start, end):
+                matrix[start][i], matrix[i][end], \
+                matrix[end][end - i + start], matrix[end - i + start][start]\
+                    = matrix[end - i + start][start], matrix[start][i], \
+                      matrix[i][end], matrix[end][end - i + start]
+            start += 1
+            end -= 1
