@@ -42,24 +42,25 @@
 |2022-04-10 | 0682. Baseball Game.                            |  72.54  |95.48
 |2022-04-11 | 1260. Shift 2D Grid.                            |  92.20  |89.14
 |2022-04-13 | 0059. Spiral MatrixII.                          |  91.74  |85.84
-|2022-04-15 | 0669. Trim a Binary Search Tree.                |   80.50  |83.03
-|2022-04-17 | 0897. Increasing Order Search Tree.             |   78.67   |90.59
-|2022-04-18 | 0203. Kth Smallest Element in a BST.            |   82.99   |90.88
-|2022-04-19 | 0099. Recover Binary Search Tree.               |   89.25   |94.87
-|2022-04-20 | 0173. Binary Search Tree Iterator.              |   77.61   |34.12
-|2022-04-21 | 0705. Design Hash Set.                          |   23.42   |5.31
-|2022-04-22 | 0706. Design Hash Map.                          |   84.93   |57.72 
-|2022-04-23 | 0535. Encode and Decode TinyURL.                |   59.79   |28.27
-|2022-04-24 | 1396. Design Underground System.                |   90.36   |98.53
-|2022-04-25 | 0284. Peeking Iterator.                         |    28.79    |29.71
-|2022-04-27 |1202. Smallest String With Swaps.                  |67.71      |69.64
-|2022-04-28 |1631. Path With Minumum  Effort.                   |17.71      |96.28
-|2022-04-29 |0785. Is Graph Bipartite.                          |90.15      |76.07
-|2022-04-30 |0399. Evaluate Division.                           |76.77      |95.43
-|2022-05-01 |0844. Backspace String Compare                     |48.63      |77.17
-|2022-05-02 |0905. Sort Array By Parity.                        |41.76      |96.65
-|2022-05-03 |0581. Shortest Unsorted Continuous Subarray        |88.29      |54.83
-|2022-05-07 |0456. 132 pattern.                                 |46.21      |95.87
+|2022-04-15 | 0669. Trim a Binary Search Tree.                |  80.50  |83.03
+|2022-04-17 | 0897. Increasing Order Search Tree.             |  78.67  |90.59
+|2022-04-18 | 0203. Kth Smallest Element in a BST.            |  82.99  |90.88
+|2022-04-19 | 0099. Recover Binary Search Tree.               |  89.25  |94.87
+|2022-04-20 | 0173. Binary Search Tree Iterator.              |  77.61  |34.12
+|2022-04-21 | 0705. Design Hash Set.                          |  23.42  |5.31
+|2022-04-22 | 0706. Design Hash Map.                          |  84.93  |57.72 
+|2022-04-23 | 0535. Encode and Decode TinyURL.                |  59.79  |28.27
+|2022-04-24 | 1396. Design Underground System.                |  90.36  |98.53
+|2022-04-25 | 0284. Peeking Iterator.                         |  28.79  |29.71
+|2022-04-27 |1202. Smallest String With Swaps.                  |  67.71  |69.64
+|2022-04-28 |1631. Path With Minumum  Effort.                   |  17.71  |96.28
+|2022-04-29 |0785. Is Graph Bipartite.                          |  90.15  |76.07
+|2022-04-30 |0399. Evaluate Division.                           |  76.77  |95.43
+|2022-05-01 |0844. Backspace String Compare                     |  48.63  |77.17
+|2022-05-02 |0905. Sort Array By Parity.                        |  41.76  |96.65
+|2022-05-03 |0581. Shortest Unsorted Continuous Subarray        |  88.29  |54.83
+|2022-05-07 |0456. 132 pattern.                                 |  46.21  |95.87
+|2022-05-08 |0341. Flatten Nested List Iterator.                |  79.74  |41.16
 
     
 ## Problems
