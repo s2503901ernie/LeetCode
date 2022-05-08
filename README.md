@@ -231,6 +231,7 @@
 |2022-05-07 |0456. 132 pattern.                                 |Medium |Stack                  |46.21      |95.87
 |2022-05-07 |1367. Linked List in Binary Tree.                  |Medium |Linked List, BT        |89.40      |87.10
 |2022-05-08 |0739. Daily Temperatures.                          |Medium |Array, Stack           |79.33      |95.86
+|2022-05-08 |0547. Number of Provinces.                         |Medium |DFS, Union             |68.70      |77.58
 
 
 
