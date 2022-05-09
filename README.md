@@ -232,8 +232,8 @@
 |2022-05-07 |1367. Linked List in Binary Tree.                  |Medium |Linked List, BT        |89.40      |87.10
 |2022-05-08 |0739. Daily Temperatures.                          |Medium |Array, Stack           |79.33      |95.86
 |2022-05-08 |0547. Number of Provinces.                         |Medium |DFS, Union             |87.08      |77.58
-|2022-05-09 |0117. Populating Next Right Pointers in Each NodeII|Mefium |BFS, BT                |37.24      |92.85
-
+|2022-05-09 |0117. Populating Next Right Pointers in Each NodeII|Medium |BFS, BT                |37.24      |92.85
+|2022-05-09 |0572. Subtree of Another Tree.                     |Medium |BFS, DFS, BT           |52.68      |93.28
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
