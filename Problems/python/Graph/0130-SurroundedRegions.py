@@ -25,10 +25,11 @@ n == board[i].length
 1 <= m, n <= 200
 board[i][j] is 'X' or 'O'.
 """
+from typing import List
 
 
-class Solution:
-    def solve1(self, board: List[List[str]]) -> None:
+class Solution1:
+    def solve(self, board: List[List[str]]) -> None:
         """
         Do not return anything, modify board in-place instead.
         # BFS
@@ -73,7 +74,9 @@ class Solution:
 
         return neighbors
 
-    def solve2(self, board: List[List[str]]) -> None:
+
+class Solution2:
+    def solve(self, board: List[List[str]]) -> None:
         """
         Do not return anything, modify board in-place instead.
         # DFS
@@ -102,3 +105,40 @@ class Solution:
         self.dfs(row + 1, col, board)
         self.dfs(row, col - 1, board)
         self.dfs(row, col + 1, board)
+
+
+class Solution3:
+    """BFS the fastest one"""
+    def solve(self, board: List[List[str]]) -> None:
+        """
+        Do not return anything, modify board in-place instead.
+        """
+        m = len(board)
+        n = len(board[0])
+        for i in range(m):
+            if i == 0 or i == m - 1:
+                for j in range(n):
+                    self.bfs(i, j, m, n, board)
+            else:
+                self.bfs(i, 0, m, n, board)
+                self.bfs(i, n - 1, m, n, board)
+        for i in range(m):
+            for j in range(n):
+                if board[i][j] == 'O':
+                    board[i][j] = 'X'
+                elif board[i][j] == 'A':
+                    board[i][j] = 'O'
+
+    def bfs(self, i, j, m, n, board):
+        stack = [[i, j]]
+        steps = [[1, 0], [-1, 0], [0, 1], [0, -1]]
+        while stack:
+            cur = stack.pop(0)
+            i, j = cur[0], cur[1]
+            if board[i][j] == 'X' or board[i][j] == 'A':
+                continue
+            board[i][j] = 'A'
+            for step in steps:
+                r, c = i + step[0], j + step[1]
+                if 0 <= r < m and 0 <= c < n and board[r][c] == 'O':
+                    stack.append([r, c])
