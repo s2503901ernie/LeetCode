@@ -234,6 +234,9 @@
 |2022-05-08 |0547. Number of Provinces.                         |Medium |DFS, Union             |87.08      |77.58
 |2022-05-09 |0117. Populating Next Right Pointers in Each NodeII|Medium |BFS, BT                |37.24      |92.85
 |2022-05-09 |0572. Subtree of Another Tree.                     |Medium |BFS, DFS, BT           |52.68      |93.28
+|2022-05-10 |0797. All Paths From Source to Target.             |Medium |Graph, BFS, DFS        |78.85      |46.30
+
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
