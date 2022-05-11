@@ -21,6 +21,7 @@ Constraints:
 1 <= nums.length <= 10
 -10 <= nums[i] <= 10
 """
+from typing import List
 
 
 class Solution:
@@ -34,5 +35,27 @@ class Solution:
                 new = ans[i] + [ele]
                 if new not in ans:
                     ans.append(new)
+
+        return ans
+
+
+class Solution:
+    def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+        if not nums:
+            return []
+        nums.sort()
+        ans = [[]]
+        cur = []
+        for i in range(len(nums)):
+            new_cur = []
+            if i > 0 and nums[i] == nums[i-1]:
+                for c in cur:
+                    new_cur.append(c + [nums[i]])
+            else:
+                n = len(ans)
+                for j in range(n):
+                    new_cur.append(ans[j] + [nums[i]])
+            ans += new_cur
+            cur = new_cur
 
         return ans
