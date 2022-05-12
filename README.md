@@ -236,7 +236,7 @@
 |2022-05-09 |0572. Subtree of Another Tree.                     |Medium |BFS, DFS, BT           |52.68      |93.28
 |2022-05-10 |0797. All Paths From Source to Target.             |Medium |Graph, BFS, DFS        |78.85      |46.30
 |2022-05-10 |0429. N-ary Tree Level Order Traversal.            |Medium |BFS                    |98.41      |11.92
-
+|2022-05-11 |1376. Tine Needed to Inform All Employees          |Medium |DFS, BFS               |50.78      |84.32
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
