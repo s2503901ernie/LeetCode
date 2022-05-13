@@ -28,6 +28,9 @@ Constraints:
 1 <= s.length, p.length <= 3 * 10^4
 s and p consist of lowercase English letters.
 """
+from typing import List
+
+
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
         if len(p) > len(s):
@@ -56,4 +59,26 @@ class Solution:
             if ana_s[s[i - len(p) + 1]] == 0:
                 ana_s.pop(s[i - len(p) + 1])
 
+        return ans
+
+
+class Solution2:
+    def findAnagrams(self, s: str, p: str) -> List[int]:
+        if len(p) > len(s):
+            return []
+        b = {}  # window dict
+        c = {}  # compared dict
+        ans = []
+        for i in range(len(p) - 1):
+            b[s[i]] = b.get(s[i], 0) + 1
+        for i in p:
+            c[i] = c.get(i, 0) + 1
+        for i in range(len(p) - 1, len(s)):
+            b[s[i]] = b.get(s[i], 0) + 1
+            if b == c:
+                ans.append(i - len(p) + 1)
+            if b[s[i - len(p) + 1]] > 1:
+                b[s[i - len(p) + 1]] -= 1
+            else:
+                b.pop(s[i - len(p) + 1])
         return ans
