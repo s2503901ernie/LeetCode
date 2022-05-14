@@ -239,7 +239,7 @@
 |2022-05-10 |0429. N-ary Tree Level Order Traversal.            |Medium |BFS                    |98.41      |11.92
 |2022-05-11 |1376. Tine Needed to Inform All Employees          |Medium |DFS, BFS               |50.78      |84.32
 |2022-05-14 |0743. Network Delay Time.                          |Medium |Graph, BFS             |6.36       |99.92
-
+|2022-05-14 |0713. Subarray Product Less Than K.                |Medium |SlideWindow            |89.28      |69.92
 
 
 ## Weekly Contest
