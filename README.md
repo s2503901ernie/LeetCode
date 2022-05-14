@@ -61,6 +61,7 @@
 |2022-05-03 |0581. Shortest Unsorted Continuous Subarray        |  88.29  |54.83
 |2022-05-07 |0456. 132 pattern.                                 |  46.21  |95.87
 |2022-05-08 |0341. Flatten Nested List Iterator.                |  79.74  |41.16
+|2022-05-14 |0743. Network Delay Time.                          |6.36   |99.92
 
     
 ## Problems
@@ -237,6 +238,9 @@
 |2022-05-10 |0797. All Paths From Source to Target.             |Medium |Graph, BFS, DFS        |78.85      |46.30
 |2022-05-10 |0429. N-ary Tree Level Order Traversal.            |Medium |BFS                    |98.41      |11.92
 |2022-05-11 |1376. Tine Needed to Inform All Employees          |Medium |DFS, BFS               |50.78      |84.32
+|2022-05-14 |0743. Network Delay Time.                          |Medium |Graph, BFS             |6.36       |99.92
+
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
