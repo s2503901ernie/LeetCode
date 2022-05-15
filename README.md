@@ -240,7 +240,8 @@
 |2022-05-11 |1376. Tine Needed to Inform All Employees          |Medium |DFS, BFS               |50.78      |84.32
 |2022-05-14 |0743. Network Delay Time.                          |Medium |Graph, BFS             |6.36       |99.92
 |2022-05-14 |0713. Subarray Product Less Than K.                |Medium |SlideWindow            |89.28      |69.92
-
+|2022-05-15 |0143. Reorder List.                                |Medium |Linked List            |99.45      |96.47
+|2022-05-15 |0910. Smallest Range II.                           |Medium |Greddy                 |69.91      |61.98
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
