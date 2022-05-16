@@ -31,6 +31,7 @@ It is guaranteed that the list represents a number that does not have leading ze
 
 Follow up: Could you solve it without reversing the input lists?
 """
+from typing import Optional
 
 
 # Definition for singly-linked list.
@@ -116,23 +117,16 @@ class Solution2:
             cur = cur.next
         carry = 0
         cur = None
-        while stack1 or stack2 or carry:
+        while stack1 or stack2 or carry != 0:
+            total = 0
             if stack1:
-                num1 = stack1.pop()
-            else:
-                num1 = 0
+                total += stack1.pop()
             if stack2:
-                num2 = stack2.pop()
-            else:
-                num2 = 0
-            num = num1 + num2 + carry
-            if num >= 10:
-                num -= 10
-                carry = 1
-            else:
-                carry = 0
-            prev = ListNode(num)
-            prev.next = cur
-            cur = prev
+                total += stack2.pop()
+            total += carry
+            carry, added = divmod(total, 10)
+            new = ListNode(added)
+            new.next = cur
+            cur = new
 
         return cur
