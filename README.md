@@ -246,8 +246,8 @@
 |2022-05-16 |1091. Shortest Path in Binary Matrix.              |Medium |BFS                    |13.21      |79.31
 |2022-05-16 |0002. Add Two Numbers.                             |Medium |Linked List            |70.67      |87.23
 |2022-05-16 |0413. Arithmetic Slices.                           |Medium |DynamicProgramming     |77.35      |50.38
-|2022-05-17 |0139. Word Break                                   |Medium |EynamicProgramming     |61.00      |46.53
-
+|2022-05-17 |0139. Word Break                                   |Medium |DynamicProgramming     |61.00      |46.53
+|2022-05-17 |0091. Decode Ways.                                 |Medium |DynamicProgramming     |84.20      |44.70
 
 
 ## Weekly Contest
