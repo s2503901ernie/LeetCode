@@ -63,6 +63,7 @@
 | 2022-05-08 |0341. Flatten Nested List Iterator.                |  79.74  |41.16
 | 2022-05-14 |0743. Network Delay Time.                          |6.36   |99.92
 | 2022-05-16 |1091. Shortest Path in Binary Matrix               |13.21  |79.31
+|2022-05-18 |1192. Critical Connection In a Network.            |97.48  |97.37
 
     
 ## Problems
@@ -248,7 +249,7 @@
 |2022-05-16 |0413. Arithmetic Slices.                           |Medium |DynamicProgramming     |77.35      |50.38
 |2022-05-17 |0139. Word Break                                   |Medium |DynamicProgramming     |61.00      |46.53
 |2022-05-17 |0091. Decode Ways.                                 |Medium |DynamicProgramming     |84.20      |44.70
-
+|2022-05-18 |1192. Critical Connection in a Network.            |Hard   |Graph, DFS             |97.48      |97.37
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
