@@ -64,7 +64,7 @@
 | 2022-05-14 |0743. Network Delay Time.                          |6.36   |99.92
 | 2022-05-16 |1091. Shortest Path in Binary Matrix               |13.21  |79.31
 |2022-05-18 |1192. Critical Connection In a Network.            |97.48  |97.37
-
+|2022-05-19 |0329. Longest Increasing Path in a Matrix.         |35.67  |98.27
     
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -250,6 +250,10 @@
 |2022-05-17 |0139. Word Break                                   |Medium |DynamicProgramming     |61.00      |46.53
 |2022-05-17 |0091. Decode Ways.                                 |Medium |DynamicProgramming     |84.20      |44.70
 |2022-05-18 |1192. Critical Connection in a Network.            |Hard   |Graph, DFS             |97.48      |97.37
+|2022-05-19 |1143. Longest Common Subsequence.                  |Medium |Dynamic Programming    |84.20      |57.66
+|2022-05-19 |0583. Delete Operation for Two Strings.            |Medium |Dynamic Programming    |82.02      |44.79
+|2022-05-19 |0329. Longest Increasing Path in a Matrix.         |Medium |Dynamic Programming    |35.67      |98.27
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
