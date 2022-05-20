@@ -33,6 +33,7 @@ n == obstacleGrid[i].length
 1 <= m, n <= 100
 obstacleGrid[i][j] is 0 or 1.
 """
+from typing import List
 
 
 class Solution:
@@ -67,3 +68,25 @@ class Solution:
                     obstacleGrid[i][j] = obstacleGrid[i - 1][j] + obstacleGrid[i][j - 1]
 
         return obstacleGrid[-1][-1]
+
+
+class Solution2:
+    def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
+        m = len(obstacleGrid)
+        n = len(obstacleGrid[0])
+        ans = [[0 for _ in range(n)] for _ in range(m)]
+        if obstacleGrid[0][0] == 0:
+            ans[0][0] = 1
+        else:
+            return 0
+        for i in range(m):
+            for j in range(n):
+                if obstacleGrid[i][j] == 1:
+                    ans[i][j] = 0
+                else:
+                    if i > 0:
+                        ans[i][j] += ans[i-1][j]
+                    if j > 0:
+                        ans[i][j] += ans[i][j-1]
+
+        return ans[-1][-1]
