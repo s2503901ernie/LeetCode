@@ -255,8 +255,8 @@
 |2022-05-19 |0329. Longest Increasing Path in a Matrix.         |Medium |Dynamic Programming    |35.67      |98.27
 |2022-05-20 |1797. Design Authentication Manager.               |Medium |Hash                   |32.63      |95.54
 |2022-05-20 |0343. Integer Breaker.                             |Medium |Math, DP               |97.25      |64.42
-
-
+|2022-05-20 |0072. Edit Distance.                               |Medium |DP                     |50.01      |64.19
+|2022-05-20 |0707. Design Linked List.                          |Medium |Linked List            |70.08      |54.14
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
