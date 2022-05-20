@@ -254,6 +254,8 @@
 |2022-05-19 |0583. Delete Operation for Two Strings.            |Medium |Dynamic Programming    |82.02      |44.79
 |2022-05-19 |0329. Longest Increasing Path in a Matrix.         |Medium |Dynamic Programming    |35.67      |98.27
 |2022-05-20 |1797. Design Authentication Manager.               |Medium |Hash                   |32.63      |95.54
+|2022-05-20 |0343. Integer Breaker.                             |Medium |Math, DP               |97.25      |64.42
+
 
 
 ## Weekly Contest
