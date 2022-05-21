@@ -257,6 +257,7 @@
 |2022-05-20 |0343. Integer Breaker.                             |Medium |Math, DP               |97.25      |64.42
 |2022-05-20 |0072. Edit Distance.                               |Medium |DP                     |50.01      |64.19
 |2022-05-20 |0707. Design Linked List.                          |Medium |Linked List            |70.08      |54.14
+|2022-05-21 |0138. Copy List With Random Pointer.               |Medium |Linked List            |92.70      |83.89
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
