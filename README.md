@@ -65,6 +65,7 @@
 | 2022-05-16 |1091. Shortest Path in Binary Matrix               |13.21  |79.31
 |2022-05-18 |1192. Critical Connection In a Network.            |97.48  |97.37
 |2022-05-19 |0329. Longest Increasing Path in a Matrix.         |35.67  |98.27
+|2022-05-22 |0647. Palindromic Substrings.                      |94.39  |75.82
     
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -258,8 +259,8 @@
 |2022-05-20 |0072. Edit Distance.                               |Medium |DP                     |50.01      |64.19
 |2022-05-20 |0707. Design Linked List.                          |Medium |Linked List            |70.08      |54.14
 |2022-05-21 |0138. Copy List With Random Pointer.               |Medium |Linked List            |92.70      |83.89
-|2022-05-21 |0201. Bitwise AND of Numbers Range.                |Mefium |BitManipulation        |86.75      |70.58
-
+|2022-05-21 |0201. Bitwise AND of Numbers Range.                |Medium |BitManipulation        |86.75      |70.58
+|2022-05-22 |0647. Palindormic Substrings.                      |Medium |String                 |94.39      |75.82
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
