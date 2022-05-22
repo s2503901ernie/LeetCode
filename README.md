@@ -262,7 +262,7 @@
 |2022-05-21 |0201. Bitwise AND of Numbers Range.                |Medium |BitManipulation        |86.75      |70.58
 |2022-05-22 |0647. Palindormic Substrings.                      |Medium |String                 |94.39      |75.82
 |2022-05-22 |0384. Shuffle an Array.                            |Medium |Array                  |94.07      |85.19
-
+|2022-05-22 |0162. Find Peak Element.                           |Medium |Array, Binary Search   |64.56      |83.54
 
 
 ## Weekly Contest
