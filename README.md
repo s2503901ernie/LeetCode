@@ -264,7 +264,7 @@
 |2022-05-22 |0384. Shuffle an Array.                            |Medium |Array                  |94.07      |85.19
 |2022-05-22 |0162. Find Peak Element.                           |Medium |Array, Binary Search   |64.56      |83.54
 |2022-05-22 |0045. Jump Game II.                                |Medium |DP                     |48.85      |97.87
-
+|2022-05-23 |0149. Max Points on a Line.                        |Hard   |Hash                   |71.89      |93.10
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
