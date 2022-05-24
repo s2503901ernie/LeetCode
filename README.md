@@ -267,6 +267,7 @@
 |2022-05-22 |0045. Jump Game II.                                |Medium |DP                     |48.85      |97.87
 |2022-05-23 |0149. Max Points on a Line.                        |Hard   |Hash                   |71.89      |93.10
 |2022-05-24 |0032. Longest Valid Parentheses                    |Hard   |Stack, DP              |57.97      |60.78
+|2022-05-24 |0053. Maximum Subarray                             |Easy   |DP                     |60.66      |21.87
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
