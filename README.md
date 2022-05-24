@@ -66,6 +66,7 @@
 |2022-05-18 |1192. Critical Connection In a Network.            |97.48  |97.37
 |2022-05-19 |0329. Longest Increasing Path in a Matrix.         |35.67  |98.27
 |2022-05-22 |0647. Palindromic Substrings.                      |94.39  |75.82
+|2022-05-24 |0032. Longest Valid Parentheses.                   |57.97  |60.78
     
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -265,6 +266,7 @@
 |2022-05-22 |0162. Find Peak Element.                           |Medium |Array, Binary Search   |64.56      |83.54
 |2022-05-22 |0045. Jump Game II.                                |Medium |DP                     |48.85      |97.87
 |2022-05-23 |0149. Max Points on a Line.                        |Hard   |Hash                   |71.89      |93.10
+|2022-05-24 |0032. Longest Valid Parentheses                    |Hard   |Stack, DP              |57.97      |60.78
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
