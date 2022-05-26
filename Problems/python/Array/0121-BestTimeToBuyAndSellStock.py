@@ -22,9 +22,12 @@ Explanation: In this case, no transactions are done and the max profit = 0.
 
 Constraints:
 
-1 <= prices.length <= 105
-0 <= prices[i] <= 104
+1 <= prices.length <= 10^5
+0 <= prices[i] <= 10^4
 """
+from typing import List
+
+
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         min_value = prices[0]
@@ -36,3 +39,14 @@ class Solution:
                 min_value = price
 
         return max_profit
+
+
+class Solution2:
+    def maxProfit(self, prices: List[int]) -> int:
+        ans = 0
+        min_val = prices[0]
+        for i in prices[1:]:
+            ans = max(ans, i - min_val)
+            min_val = min(min_val, i)
+
+        return ans
