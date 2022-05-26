@@ -20,6 +20,7 @@ Constraints:
 1 <= nums1.length, nums2.length <= 1000
 0 <= nums1[i], nums2[i] <= 1000
 """
+from typing import List
 
 
 class Solution:
@@ -35,5 +36,24 @@ class Solution:
             if i in board and board[i] > 0:
                 ans.append(i)
                 board[i] -= 1
+
+        return ans
+
+
+class Solution2:
+    def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        nums1.sort()
+        nums2.sort()
+        ans = []
+        i, j = 0, 0
+        while i < len(nums1) and j < len(nums2):
+            if nums1[i] == nums2[j]:
+                ans.append(nums1[i])
+                i += 1
+                j += 1
+            elif nums1[i] > nums2[j]:
+                j += 1
+            else:
+                i += 1
 
         return ans
