@@ -25,6 +25,9 @@ Constraints:
 The number of nodes in the tree is in the range [0, 2000].
 -1000 <= Node.val <= 1000
 """
+from typing import Optional, List
+
+
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -34,6 +37,7 @@ class TreeNode:
 
 
 class Solution:
+    """DFS"""
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
@@ -51,3 +55,28 @@ class Solution:
             ans[depth].append(node.val)
         self.helper(node.left, depth+1, ans)
         self.helper(node.right, depth+1, ans)
+
+
+class Solution2:
+    """BFS"""
+    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        if not root:
+            return []
+        ans = []
+        stack = [[root]]
+        while stack:
+            cur = stack.pop(0)
+            tmp1 = []
+            tmp2 = []
+            for node in cur:
+                if node:
+                    if node.left:
+                        tmp1.append(node.left)
+                    if node.right:
+                        tmp1.append(node.right)
+                    tmp2.append(node.val)
+            if tmp1:
+                stack.append(tmp1)
+            ans.append(tmp2)
+
+        return ans
