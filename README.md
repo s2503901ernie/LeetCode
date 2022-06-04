@@ -68,6 +68,7 @@
 |2022-05-22 |0647. Palindromic Substrings.                      |94.39  |75.82
 |2022-05-24 |0032. Longest Valid Parentheses.                   |57.97  |60.78
 |2022-05-29 |0318. Maximum Product of Word Lengths.             |84.18  |71.68
+|2022-06-04 |0051. N-Queens.                                    |39.05  |84.03
 
     
 ## Problems
@@ -271,6 +272,8 @@
 |2022-05-24 |0032. Longest Valid Parentheses                    |Hard   |Stack, DP              |57.97      |60.78
 |2022-05-24 |0053. Maximum Subarray                             |Easy   |DP                     |60.66      |21.87
 |2022-05-29 |0318. Maximum Product of Word Lengths.             |Medium |BitManipulation        |84.18      |71.68
+|2022-06-04 |0051. N-Queens.                                    |Hard   |DFS, Array             |39.05      |84.03
+
 
 
 ## Weekly Contest
