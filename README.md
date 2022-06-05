@@ -69,6 +69,7 @@
 |2022-05-24 |0032. Longest Valid Parentheses.                   |57.97  |60.78
 |2022-05-29 |0318. Maximum Product of Word Lengths.             |84.18  |71.68
 |2022-06-04 |0051. N-Queens.                                    |39.05  |84.03
+|2022-06-05 |0052. N-QueensII.                                  |33.80  |15.44
 
     
 ## Problems
@@ -273,8 +274,8 @@
 |2022-05-24 |0053. Maximum Subarray                             |Easy   |DP                     |60.66      |21.87
 |2022-05-29 |0318. Maximum Product of Word Lengths.             |Medium |BitManipulation        |84.18      |71.68
 |2022-06-04 |0051. N-Queens.                                    |Hard   |DFS, Array             |39.05      |84.03
-
-
+|2022-06-05 |0051. N-QueensII.                                  |Hard   |DFS, Array             |33.80      |15.44
+|2022-06-05 |0701. Insert Into a Binary Search Tree.            |Medium |BST                    |87.73      |50.60
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
