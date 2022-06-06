@@ -276,6 +276,8 @@
 |2022-06-04 |0051. N-Queens.                                    |Hard   |DFS, Array             |39.05      |84.03
 |2022-06-05 |0051. N-QueensII.                                  |Hard   |DFS, Array             |33.80      |15.44
 |2022-06-05 |0701. Insert Into a Binary Search Tree.            |Medium |BST                    |87.73      |50.60
+|2022-06-06 |0235. Lowest Common Ancestor of a BST.             |Easy   |BST                    |94.05      |67.15
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
