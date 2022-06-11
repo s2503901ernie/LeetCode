@@ -38,7 +38,7 @@ class Solution:
             ans.append(current)
         current = 1
         for i in range(len(nums) - 2, -1, -1):
-            current *= num[i+1]
+            current *= nums[i+1]
             ans[i] = ans[i] * current
 
         return ans
