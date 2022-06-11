@@ -70,6 +70,7 @@
 |2022-05-29 |0318. Maximum Product of Word Lengths.             |84.18  |71.68
 |2022-06-04 |0051. N-Queens.                                    |39.05  |84.03
 |2022-06-05 |0052. N-QueensII.                                  |33.80  |15.44
+|2022-06-11 |1658. Min Operations To Reduce X To Zero.          |27.61  |29.25
 
     
 ## Problems
@@ -279,7 +280,7 @@
 |2022-06-06 |0235. Lowest Common Ancestor of a BST.             |Easy   |BST                    |94.05      |67.15
 |2022-06-11 |0435. Non Overlapping Intervals.                   |Medium |Array, Greedy          |28.70      |84.11
 |2022-06-11 |0560. Subarray Sum Equal K.                        |Medium |Array, Hash            |22.52      |97.91
-
+|2022-06-11 |1658. Min Operations To Reduce X to Zero.          |Medium |Array, Hash            |27.61      |29.25
 
 
 ## Weekly Contest
