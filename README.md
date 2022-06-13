@@ -283,7 +283,7 @@
 |2022-06-11 |0560. Subarray Sum Equal K.                        |Medium |Array, Hash            |22.52      |97.91
 |2022-06-11 |1658. Min Operations To Reduce X to Zero.          |Medium |Array, Hash            |27.61      |29.25
 |2022-06-12 |1695. Maximum Erasure value.                       |Medium |Array, Hash            |90.59      |38.51
-
+|2022-06-14 |0763. Partition Labels.                            |Medium |Array, Hash, Greedy    |63.26      |97.56
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
