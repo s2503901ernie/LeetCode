@@ -33,10 +33,10 @@ All the words in s are separated by a single space.
 
 
 class Solution:
-    def wordPattern(self, pattern: str, str: str) -> bool:
+    def wordPattern(self, pattern: str, s: str) -> bool:
         board_s = {}
         board_pattern = {}
-        s = str.split()
+        s = s.split()
         if len(pattern) != len(s):
 
             return False
@@ -61,5 +61,26 @@ class Solution:
                     if board_s[s[i]] != board_pattern[pattern[i]]:
 
                         return False
+
+        return True
+
+
+class Solution2:
+    def wordPattern(self, pattern: str, s: str) -> bool:
+        d = {}
+        seen = set()
+        s = s.split(' ')
+        if len(pattern) != len(s):
+            return False
+        for i in range(len(pattern)):
+            if pattern[i] not in d:
+                d[pattern[i]] = s[i]
+                if s[i] in seen:
+                    return False
+                else:
+                    seen.add(s[i])
+            else:
+                if d[pattern[i]] != s[i]:
+                    return False
 
         return True

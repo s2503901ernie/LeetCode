@@ -284,6 +284,7 @@
 |2022-06-11 |1658. Min Operations To Reduce X to Zero.          |Medium |Array, Hash            |27.61      |29.25
 |2022-06-12 |1695. Maximum Erasure value.                       |Medium |Array, Hash            |90.59      |38.51
 
+
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
 |:---------:|:---------------                                   |:--:   |:--:                   |:---------:|:------------:
