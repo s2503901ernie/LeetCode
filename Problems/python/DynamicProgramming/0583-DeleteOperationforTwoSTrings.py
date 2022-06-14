@@ -36,7 +36,7 @@ class Solution:
                 if word1[i - 1] == word2[j - 1]:
                     ans[i][j] = ans[i - 1][j - 1]
                 else:
-                    ans[i][j]= 1 + min(ans[i - 1][j], ans[i][j - 1])
+                    ans[i][j] = 1 + min(ans[i - 1][j], ans[i][j - 1])
 
         return ans[-1][-1]
 
@@ -53,3 +53,20 @@ class Solution2:
                     ans[i][j] = max(ans[i - 1][j], ans[i][j - 1])
 
         return len(word1) - ans[-1][-1] + len(word2) - ans[-1][-1]
+
+
+class Solution3:
+    def minDistance(self, word1: str, word2: str) -> int:
+        m = len(word1)
+        n = len(word2)
+
+        return m + n - 2 * self.dfs(word1, word2, m - 1, n - 1)
+
+    @cache
+    def dfs(self, word1, word2, m, n):
+        if m == -1 or n == -1:
+            return 0
+        if word1[m] == word2[n]:
+            return 1 + self.dfs(word1, word2, m - 1, n - 1)
+        else:
+            return max(self.dfs(word1, word2, m - 1, n), self.dfs(word1, word2, m, n - 1))
