@@ -39,3 +39,17 @@ class Solution:
                     ans[i][j]= 1 + min(ans[i - 1][j], ans[i][j - 1])
 
         return ans[-1][-1]
+
+
+class Solution2:
+    """Find the longest common substring."""
+    def minDistance(self, word1: str, word2: str) -> int:
+        ans = [[0 for _ in range(len(word2) + 1)] for _ in range(len(word1) + 1)]
+        for i in range(1, len(word1) + 1):
+            for j in range(1, len(word2) + 1):
+                if ans[i - 1] == ans[j - 1]:
+                    ans[i][j] = ans[i - 1][j - 1] + 1
+                else:
+                    ans[i][j] = max(ans[i - 1][j], ans[i][j - 1])
+
+        return len(word1) - ans[-1][-1] + len(word2) - ans[-1][-1]
