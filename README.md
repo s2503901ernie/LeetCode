@@ -289,6 +289,8 @@
 |2022-06-15 |0187. Repeated DNA Sequences.                      |Medium |String, Hash           |75.69      |33.49
 |2022-06-19 |2309. Greatest Letter in Upper and Lower Case.     |Easy   |Array                  |20.00      |80.00
 |2022-06-19 |2310. Sum of Numbers With Units Digit K.           |Medium |Math                   |100.0      |80.00
+|2022-06-19 |0025. Reverse Nodes in K Group.                    |haed   |Linked List            |90.88      |98.45
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
