@@ -287,6 +287,8 @@
 |2022-06-14 |0763. Partition Labels.                            |Medium |Array, Hash, Greedy    |63.26      |97.56
 |2022-06-15 |1048. Longest String Chain.                        |Medium |Array, Hash, DP        |89.25      |88.74
 |2022-06-15 |0187. Repeated DNA Sequences.                      |Medium |String, Hash           |75.69      |33.49
+|2022-06-19 |2309. Greatest Letter in Upper and Lower Case.     |Easy   |Array                  |20.00      |80.00
+|2022-06-19 |2310. Sum of Numbers With Units Digit K.           |Medium |Math                   |100.0      |80.00
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
