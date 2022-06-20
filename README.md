@@ -290,7 +290,9 @@
 |2022-06-19 |2309. Greatest Letter in Upper and Lower Case.     |Easy   |Array                  |20.00      |80.00
 |2022-06-19 |2310. Sum of Numbers With Units Digit K.           |Medium |Math                   |100.0      |80.00
 |2022-06-19 |0025. Reverse Nodes in K Group.                    |hard   |Linked List            |90.88      |98.45
-|2022-06-20 |1249. Minumum Remove to Make Valid Parentheses     |medium |Stack                  |12.50      |38.29
+|2022-06-20 |1249. Minimum Remove to Make Valid Parentheses     |Medium |Stack                  |12.50      |38.29
+|2022-06-20 |1823. Find the Winner of the Circular Game.        |Medium |Stack, Math            |64.45      |78.67
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
