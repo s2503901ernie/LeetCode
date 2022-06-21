@@ -74,7 +74,7 @@
 |2022-06-11 |1695. Maximum Erasure Value.                       |  90.59   |38.51
 |2022-06-15 |1048. Longest String Chain.                        |89.25     |88.74
 |2022-06-20 |0820. Shortest Encoding of Words.                  |68.37      |44.19
-
+|2022-06-21 |1642. Furthest Building You can Reach.             |12.32      |16.41
 
     
 ## Problems
@@ -295,6 +295,8 @@
 |2022-06-20 |1249. Minimum Remove to Make Valid Parentheses     |Medium |Stack                  |12.50      |38.29
 |2022-06-20 |1823. Find the Winner of the Circular Game.        |Medium |Stack, Math            |64.45      |78.67
 |2022-06-20 |0820. Shortest Encoding Words.                     |Medium |Trie                   |68.37      |44.19
+|2022-06-21 |1642. Furthest Building You can Reach.             |Medium |Heap                   |12.32      |16.41
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
