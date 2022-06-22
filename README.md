@@ -75,6 +75,7 @@
 |2022-06-15 |1048. Longest String Chain.                        |89.25     |88.74
 |2022-06-20 |0820. Shortest Encoding of Words.                  |68.37      |44.19
 |2022-06-21 |1642. Furthest Building You can Reach.             |12.32      |16.41
+|2022-06-22 |0450. Delete Node in a BST.                        |67.40      |76.81
 
     
 ## Problems
@@ -296,7 +297,7 @@
 |2022-06-20 |1823. Find the Winner of the Circular Game.        |Medium |Stack, Math            |64.45      |78.67
 |2022-06-20 |0820. Shortest Encoding Words.                     |Medium |Trie                   |68.37      |44.19
 |2022-06-21 |1642. Furthest Building You can Reach.             |Medium |Heap                   |12.32      |16.41
-
+|2022-06-23 |0450. Delete Node in a BST.                        |Medium |BST                    |67.40      |76.81
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
