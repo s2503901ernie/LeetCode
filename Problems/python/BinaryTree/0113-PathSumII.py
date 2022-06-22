@@ -32,6 +32,9 @@ The number of nodes in the tree is in the range [0, 5000].
 -1000 <= Node.val <= 1000
 -1000 <= targetSum <= 1000
 """
+from typing import List, Optional
+
+
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -41,26 +44,47 @@ class TreeNode:
 
 
 class Solution:
+    """dfs"""
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
         if not root:
             return []
         ans = []
-        self.helper(root, [], 0, ans, targetSum)
+        self.dfs(root, 0, [], targetSum, ans)
 
         return ans
 
-    def helper(self, node, current, current_sum, ans, target):
-        if not node:
-            return
-        new_current = current + [node.val]
-        current_sum += node.val
-        if not node.left and not node.right:
-            if current_sum == target:
-                ans.append(new_current)
-                return
-            else:
-                return
+    def dfs(self, node, cur, nodes, t, ans):
+        new = nodes + [node.val]
+        cur += node.val
         if node.left:
-            self.helper(node.left, new_current, current_sum, ans, target)
+            self.dfs(node.left, cur, new, t, ans)
         if node.right:
-            self.helper(node.right, new_current, current_sum, ans, target)
+            self.dfs(node.right, cur, new, t, ans)
+        if not node.left and not node.right:
+            if cur == t:
+                ans.append(new)
+
+
+class Solution2:
+    """bfs"""
+    def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
+        if not root:
+            return []
+        ans = []
+        stack = [[root, 0, []]]
+        while stack:
+            cur = stack.pop(0)
+            node, cur_sum, nodes = cur[0], cur[1], cur[2]
+            cur_sum += node.val
+            new = nodes + [node.val]
+            if node.left:
+                stack.append([node.left, cur_sum, new])
+            if node.right:
+                stack.append([node.right, cur_sum, new])
+            if not node.left and not node.right:
+                if cur_sum == targetSum:
+                    ans.append(new)
+
+        return ans
+
+        
