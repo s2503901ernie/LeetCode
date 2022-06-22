@@ -25,6 +25,7 @@ Constraints:
 The number of nodes in the tree is in the range [0, 100].
 -100 <= Node.val <= 100
 """
+from typing import List, Optional
 
 
 # Definition for a binary tree node.
@@ -35,7 +36,7 @@ class TreeNode:
         self.right = right
 
 
-class Solution:
+class Solution1:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         if not root:
             return []
@@ -82,3 +83,51 @@ class Solution:
             array[depth].append(node.val)
         self.get_level_order(node.left, depth+1, array)
         self.get_level_order(node.right, depth+1, array)
+
+
+class Solution2:
+    """bfs"""
+    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        if not root:
+            return []
+        stack = [root]
+        nodes = []
+        while stack:
+            tmp = []
+            for _ in range(len(stack)):
+                cur = stack.pop(0)
+                tmp.append(cur.val)
+                if cur.left:
+                    stack.append(cur.left)
+                if cur.right:
+                    stack.append(cur.right)
+            nodes.append(tmp)
+        ans = []
+        for n in nodes:
+            ans.append(n[-1])
+
+        return ans
+
+
+class Solution3:
+    """dfs"""
+    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        if not root:
+            return []
+        nodes = []
+        ans = []
+        self.dfs(root, 0, nodes)
+        for n in nodes:
+            ans.append(n[-1])
+
+        return ans
+
+    def dfs(self, node, depth, ans):
+        if not node:
+            return
+        if len(ans) < depth + 1:
+            ans.append([node.val])
+        else:
+            ans[depth].append(node.val)
+        self.dfs(node.left, depth + 1, ans)
+        self.dfs(node.right, depth + 1, ans)
