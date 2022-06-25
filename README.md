@@ -301,8 +301,8 @@
 |2022-06-21 |1642. Furthest Building You can Reach.             |Medium |Heap                   |12.32      |16.41
 |2022-06-23 |0450. Delete Node in a BST.                        |Medium |BST                    |67.40      |76.81
 |2022-06-23 |0630. Course Schedule III.                         |Medium |Heap, Greedy           |21.51      |90.62
-|2022-06-25 |*0665. Non Decreasing Array.                        |Medium |Array                 |92.21      |49.84
-
+|2022-06-25 |*0665. Non Decreasing Array.                       |Medium |Array                  |92.21      |49.84
+|2022-06-25 |0997. Find the Town Judge.                         |Easy   |Graph                  |63.31      |67.67
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
