@@ -303,6 +303,8 @@
 |2022-06-23 |0630. Course Schedule III.                         |Medium |Heap, Greedy           |21.51      |90.62
 |2022-06-25 |*0665. Non Decreasing Array.                       |Medium |Array                  |92.21      |49.84
 |2022-06-25 |0997. Find the Town Judge.                         |Easy   |Graph                  |63.31      |67.67
+|2022-06-25 |1557. Minimum Number of Vertices to Reach All Nodes|Medium |Graph                  |41.81      |35.34
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
