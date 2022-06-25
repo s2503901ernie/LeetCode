@@ -304,7 +304,7 @@
 |2022-06-25 |*0665. Non Decreasing Array.                       |Medium |Array                  |92.21      |49.84
 |2022-06-25 |0997. Find the Town Judge.                         |Easy   |Graph                  |63.31      |67.67
 |2022-06-25 |1557. Minimum Number of Vertices to Reach All Nodes|Medium |Graph                  |41.81      |35.34
-
+|2022-06-22 |0841. Keys and Rooms.                              |Medium |BFS, Graph             |89.08      |84.93
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
