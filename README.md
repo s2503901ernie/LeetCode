@@ -78,7 +78,7 @@
 |2022-06-22 |0450. Delete Node in a BST.                        |67.40      |76.81
 |2022-06-23 |0630. Course Schedule III.                         |21.51      |90.62
 |2022-06-25 |0665. Non Decreasing Array.                        |92.21      |49.84
-
+|2022-06-26 |1423. Maximum Points You Can Obtain From Cards.    |48.30      |71.96
     
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -305,6 +305,8 @@
 |2022-06-25 |0997. Find the Town Judge.                         |Easy   |Graph                  |63.31      |67.67
 |2022-06-25 |1557. Minimum Number of Vertices to Reach All Nodes|Medium |Graph                  |41.81      |35.34
 |2022-06-22 |0841. Keys and Rooms.                              |Medium |BFS, Graph             |89.08      |84.93
+|2022-06-26 |1423. Maximum Points You Can Obtain from Cards.    |Medium |SlideWindow, Prefix    |48.30      |71.96
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
