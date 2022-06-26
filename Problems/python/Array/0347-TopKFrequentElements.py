@@ -20,6 +20,7 @@ Constraints:
 k is in the range [1, the number of unique elements in the array].
 It is guaranteed that the answer is unique.
 """
+import heapq
 from typing import List
 
 
@@ -40,6 +41,7 @@ class Solution:
 
 
 class Solution2:
+    """bucket"""
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         board = {}
         ans = []
@@ -55,5 +57,21 @@ class Solution2:
                     ans.append(num)
             if len(ans) == k:
                 break
+
+        return ans
+
+
+class Solution3:
+    """heap"""
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        d = {}
+        for n in nums:
+            d[n] = d.get(n, 0) - 1
+        stack = []
+        ans = []
+        for n, f in d.items():
+            heapq.heappush(stack, [f, n])
+        for _ in range(k):
+            ans.append(heapq.heappop(stack)[1])
 
         return ans
