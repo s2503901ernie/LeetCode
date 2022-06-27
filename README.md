@@ -310,7 +310,7 @@
 |2022-06-26 |1423. Maximum Points You Can Obtain from Cards.    |Medium |SlideWindow, Prefix    |48.30      |71.96
 |2022-06-27 |1689. PartitionIntoMinNumberofDeci-BinaryNumbers   |Medium |Greedy                 |96.12      |83.73
 |2022-06-27 |0451. Sort Character By Frequency.                 |Medium |Heap                   |87.97      |79.56
-
+|2022-06-28 |*0297. Serialize And Deserialize Binary Tree.      |Hard   |BinaryTree, DFS        |21.07      |63.90
 
 
 
