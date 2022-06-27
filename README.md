@@ -309,6 +309,10 @@
 |2022-06-22 |0841. Keys and Rooms.                              |Medium |BFS, Graph             |89.08      |84.93
 |2022-06-26 |1423. Maximum Points You Can Obtain from Cards.    |Medium |SlideWindow, Prefix    |48.30      |71.96
 |2022-06-27 |1689. PartitionIntoMinNumberofDeci-BinaryNumbers   |Medium |Greedy                 |96.12      |83.73
+|2022-06-27 |0451. Sort Character By Frequency.                 |Medium |Heap                   |87.97      |79.56
+
+
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
