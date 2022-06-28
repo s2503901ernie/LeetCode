@@ -80,6 +80,7 @@
 |2022-06-25 |0665. Non Decreasing Array.                        |92.21      |49.84
 |2022-06-26 |1423. Maximum Points You Can Obtain From Cards.    |48.30      |71.96
 |2022-06-27 |1689. PartitionIntoMinNumberofDeci-BinaryNumbers   |96.12      |83.73
+|2022-06-28 |1647. Min Deletions To Make Character Freq Unique. |57.34      |51.90
 
     
 ## Problems
@@ -311,7 +312,7 @@
 |2022-06-27 |1689. PartitionIntoMinNumberofDeci-BinaryNumbers   |Medium |Greedy                 |96.12      |83.73
 |2022-06-27 |0451. Sort Character By Frequency.                 |Medium |Heap                   |87.97      |79.56
 |2022-06-28 |*0297. Serialize And Deserialize Binary Tree.      |Hard   |BinaryTree, DFS        |21.07      |63.90
-
+|2022-06-28 |1647. Min Deletions To Make Character Freq Unique. |Medium |Greedy                 |57.34      |51.90
 
 
 ## Weekly Contest
