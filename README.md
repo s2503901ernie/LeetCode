@@ -83,7 +83,7 @@
 |2022-06-28 |1647. Min Deletions To Make Character Freq Unique. |57.34      |51.90
 |2022-06-29 |0406. Queue Reconstruction By Height.              |80.23      |31.23
 |2022-07-02 |1465. Max Area of a Piece of a Cake.               |42.74      |62.62
-
+|2022-07-04 |0136. Candy.                                       |93.51      |18.65
     
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -317,7 +317,7 @@
 |2022-06-28 |1647. Min Deletions To Make Character Freq Unique. |Medium |Greedy                 |57.34      |51.90
 |2022-06-29 |*0406. Queue Reconstruction By Height.             |Medium |Greedy                 |80.23      |31.23
 |2022-07-02 |1465. Max Area of a Piece of a Cake.               |Medium |Greedy                 |42.74      |62.62
-
+|2022-07-04 |0136. Candy.                                       |Hard   |Greedy                 |93.51      |18.65
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
