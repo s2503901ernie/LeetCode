@@ -84,6 +84,7 @@
 |2022-06-29 |0406. Queue Reconstruction By Height.              |80.23      |31.23
 |2022-07-02 |1465. Max Area of a Piece of a Cake.               |42.74      |62.62
 |2022-07-04 |0136. Candy.                                       |93.51      |18.65
+|2022-07-05 |0128. Longest Consecutive Sequence.                |40.59      |5.04
     
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -318,6 +319,8 @@
 |2022-06-29 |*0406. Queue Reconstruction By Height.             |Medium |Greedy                 |80.23      |31.23
 |2022-07-02 |1465. Max Area of a Piece of a Cake.               |Medium |Greedy                 |42.74      |62.62
 |2022-07-04 |0136. Candy.                                       |Hard   |Greedy                 |93.51      |18.65
+|2022-07-05 |0128. Longest Consecutive Sequence.                |Medium |Union                  |40.59      |5.04
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
