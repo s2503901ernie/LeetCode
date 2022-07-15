@@ -88,6 +88,7 @@
 |2022-07-07 |0097. Interleaving String.                         |26.26      |98.73    
 |2022-07-10 |1696. Jump Game VI.                                |19.19      |22.48
 |2022-07-10 |0746. Min Cost Climbing Stairs.                    |81.06      |44.40
+|2022-07-16 |0695. Max Area of Islands.                         |95.52      |9.21
 
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -326,6 +327,7 @@
 |2022-07-07 |*0097. Interleaving String.                        |Medium |DP                     |26.26      |98.73
 |2022-07-10 |*1696. Jump Game VI.                               |Medium |Priority Queue         |19.19      |22.48
 |2022-07-10 |0746. Min Cost Climbing Stairs.                    |Easy   |DP                     |81.06      |44.40
+|2022-07-15 |0695. Max Area of Island.                          |Medium |DFS, BFS               |95.52      |17.31
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
