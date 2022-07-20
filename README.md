@@ -330,6 +330,7 @@
 |2022-07-10 |0746. Min Cost Climbing Stairs.                    |Easy   |DP                     |81.06      |44.40
 |2022-07-15 |0695. Max Area of Island.                          |Medium |DFS, BFS               |95.52      |17.31
 |2022-07-20 |0792. Number of Matching Subsequences.             |Medium |Trie                   |20.24      |16.33
+|2022-07-17 |*0629. K Inverse Pairs Array.                      |Hard   |DP                     |56.25      |17.50
 
 
 ## Weekly Contest
