@@ -22,6 +22,7 @@ The number of nodes in the list is n.
 -500 <= Node.val <= 500
 1 <= left <= right <= n
 """
+from typing import Optional
 
 
 # Definition for singly-linked list.
@@ -60,4 +61,36 @@ class Solution:
                 break
             current = current.next
 
+        return dummy.next
+
+
+class Solution2:
+    def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
+        l = []
+        n = 1
+        node = head
+        last = None
+        while node:
+            if left <= n <= right:
+                l.append(node)
+            if n == right + 1:
+                last = node
+            node = node.next
+            n += 1
+        dummy = ListNode(0)
+        dummy.next = head
+        node = head
+        pre = dummy
+        n = 1
+        while node:
+            if n < left:
+                node = node.next
+                pre = pre.next
+                n += 1
+            elif n == left:
+                for i in l[::-1]:
+                    pre.next = i
+                    pre = pre.next
+                break
+        pre.next = last
         return dummy.next
