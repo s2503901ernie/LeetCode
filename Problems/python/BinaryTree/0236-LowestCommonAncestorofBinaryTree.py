@@ -44,15 +44,15 @@ class TreeNode:
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
 
-        return self.helper(root, p, q)
+        return self.dfs(root, p, q)
 
-    def helper(self, node, p, q):
+    def dfs(self, node, p, q):
         if not node:
             return
         if node == p or node == q:
             return node
-        left = self.helper(node.left, p, q)
-        right = self.helper(node.right, p, q)
+        left = self.dfs(node.left, p, q)
+        right = self.dfs(node.right, p, q)
         if not left:
             return right
         elif not right:
