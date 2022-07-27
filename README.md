@@ -333,6 +333,7 @@
 |2022-07-20 |0792. Number of Matching Subsequences.             |Medium |Trie                   |20.24      |16.33
 |2022-07-17 |*0629. K Inverse Pairs Array.                      |Hard   |DP                     |56.25      |17.50
 |2022-07-23 |*0315. Count of Smaller Number After Self.         |Hard   |Array, MergeSort       |38.45      |35.66
+|2022-07-27 |0114. Flatten Binary Tree To Linked List.          |Medium |BT                     |73.04      |47.67
 
 
 ## Weekly Contest
