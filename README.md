@@ -92,6 +92,7 @@
 | 2022-07-20 | 0792. Number of Matching Subsequences.             |  20.24  |       16.33 
 | 2022-07-23 | 0315. Count of Smaller Number After Self.          |  38.45  |       35.66 
 | 2022-07-29 | 0890. Find and Replace Pattern.                    |  48.79  |       76.64 |
+|2022-08-06  | 0377. Combination Sum IV.                            |85.62  |       80.97
 
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -336,6 +337,8 @@
 |2022-07-23 |*0315. Count of Smaller Number After Self.         |Hard   |Array, MergeSort       |38.45      |35.66
 |2022-07-27 |0114. Flatten Binary Tree To Linked List.          |Medium |BT                     |73.04      |47.67
 |2022-07-29 |0890. Find and replace pattern.                    |Medium |HashMap                |48.79      |76.64
+|2022-08-06 |0377. Combination Sum IV.                          |Medium |DP                     |85.62      |80.97
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
