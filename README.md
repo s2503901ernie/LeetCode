@@ -94,6 +94,7 @@
 | 2022-07-29 | 0890. Find and Replace Pattern.                    |  48.79  |       76.64 |
 | 2022-08-05 | 0377. Combination Sum IV.                            |85.62  |       80.97
 | 2022-08-06 |0458. Poor Pigs.                                      |76.64  |       20.44
+|2022-08-07 |1220. Count Vowels Permutation.                        |74.40  |       68.69
 
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -340,6 +341,7 @@
 |2022-07-29 |0890. Find and replace pattern.                    |Medium |HashMap                |48.79      |76.64
 |2022-08-05 |0377. Combination Sum IV.                          |Medium |DP                     |85.62      |80.97
 |2022-08-06 |0458. Poor Pigs.                                   |Hard   |Math                   |76.64      |20.44
+|2022-08-07 |1220. Count Vowels Permutation.                    |Hard   |DP                     |74.40      |68.69
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
