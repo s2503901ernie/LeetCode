@@ -95,6 +95,7 @@
 | 2022-08-05 | 0377. Combination Sum IV.                            |85.62  |       80.97
 | 2022-08-06 |0458. Poor Pigs.                                      |76.64  |       20.44
 |2022-08-07 |1220. Count Vowels Permutation.                        |74.40  |       68.69
+|2022-08-09 |0823. Binary Trees With Factors.                       |65.16  |       90.91
 
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -342,6 +343,8 @@
 |2022-08-05 |0377. Combination Sum IV.                          |Medium |DP                     |85.62      |80.97
 |2022-08-06 |0458. Poor Pigs.                                   |Hard   |Math                   |76.64      |20.44
 |2022-08-07 |1220. Count Vowels Permutation.                    |Hard   |DP                     |74.40      |68.69
+|2022-08-09 |0823. Binary Trees With Factors.                   |Medium |DP                     |65.15      |90.91
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
