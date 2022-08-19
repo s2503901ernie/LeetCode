@@ -96,6 +96,7 @@
 | 2022-08-06 |0458. Poor Pigs.                                      |76.64  |       20.44
 |2022-08-07 |1220. Count Vowels Permutation.                        |74.40  |       68.69
 |2022-08-09 |0823. Binary Trees With Factors.                       |65.16  |       90.91
+|2022-08-18 |1338. Reduce Array Size to The Half.                   |87.04  |       67.22
 
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -345,6 +346,7 @@
 |2022-08-07 |1220. Count Vowels Permutation.                    |Hard   |DP                     |74.40      |68.69
 |2022-08-09 |0823. Binary Trees With Factors.                   |Medium |DP                     |65.15      |90.91
 |2022-08-14 |*0126. Word Ladder II.                             |Hard   |BFS, Hash              |59.65      |40.56
+|2022-08-18 |1338. Reduce Array Size To The Half.               |Medium |Heap                   |87.04      |67.22
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
