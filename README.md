@@ -1,103 +1,105 @@
 # LeetCode
 ## Daily challenge
 
-|    Date    | Title                                                  | Runtime | Used memory 
-|:----------:|:-------------------------------------------------------|:------:|------------:
-| 2021-05-04 | Non-decreasing array                                   |  160ms |     15.5 MB 
-| 2021-05-05 | Jump Game II.                                          |  20ms  |     14.3 MB 
-| 2021-05-06 | Convert Sorted List to Binary Search Tree              |  132ms |     20.4 MB 
-| 2021-05-12 | Range Sum Query 2D - Immutable                         | 1406ms |     16.6 MB 
-| 2021-05-13 | Ambiguous Coordinates                                  |  40ms  |     14.2 MB 
-| 2021-05-14 | Flatten Binary Tree to Linked List                     |  28ms  |     15.4 MB 
-| 2022-01-04 | Complement of Base10 Integer                           |  52ms  |     13.9 MB 
-| 2022-01-14 | 0452. Minimum Number of Arrows to Brust Ballons        |  96.79 |       10.52 
-| 2022-01-15 | 0008. String to Integer atoi.                          |  86.85 |       57.28 
-| 2022-01-16 | 0849. Maximize Distance to Closest Person.             |  67.94 |       25.91 
-| 2022-01-17 | 0290. Word Pattern.                                    |  99.91 |       55.31 
-| 2022-01-18 | 0605. Can Place Flowers.                               |  98.89 |       84.06 
-| 2022-01-19 | 0142. Linked List CycleII.                             |  71.87 |       82.54 
-| 2022-01-25 | 0520. Detect Capital.                                  |  75.64 |       74.81 
-| 2022-01-25 | 0941. Valid Mountain Array.                            |  80.42 |       18.42 
-| 2022-01-26 | 1305. All Elements In Two Binary Search Tree.          |  60.41 |       62.08 
-| 2022-02-11 | 0567. Premutation in String.                           |  92.93 |       83.82 
-| 2022-02-13 | 0078. Subsets.                                         |  91.98 |       82.34 
-| 2022-02-14 | 0104. Maximum Depth Binary Tree.                       |  76.53 |        8.26 
-| 2022-02-15 | 0136. Single Number.                                   |  86.40 |       68.96 
-| 2022-02-16 | 0024. Swap Nodes in Pairs.                             |  62.34 |       75.41 
-| 2022-02-17 | 0039. Combination Sum.                                 |  87.71 |       97.98 
-| 2022-02-21 | 0169. Majority Element.                                |  80.55 |       43.74 
-| 2022-02-22 | 0171. Excel Sheet Column Number                        |  77.88 |       83.72 
-| 2022-03-07 | 0021. Merge two Sorted List                            |  97.89 |       89.81 
-| 2022-03-28 | 0081. Search in Rotated Sorted ArrayII.                |  88.54 |       95.32 
-| 2022-03-29 | 0287. Find the Duplicate Number.                       |  50.41 |       59.49 
-| 2022-03-30 | 0074. Search a 2D Matrix.                              |  97.74 |       90.46 
-| 2022-04-01 | 0344. Reverse String.                                  |  85.34 |       48.50 
-| 2022-04-02 | 0680. Valid Palindrome II                              |  92.87 |       91.68 
-| 2022-04-03 | 0031. Next Permutation.                                |  43.54 |       79.00 
-| 2022-04-04 | 1721. Swapping Nodes In a LinkedList                   |  76.54 |       85.24 
-| 2022-04-05 | 0011. Container With Most Water                        |  49.49 |       89.15 
-| 2022-04-06 | 0923. 3 Sum With Multiplicity.                         |  59.30 |       22.67 
-| 2022-04-07 | 1046. Last Stone Weight.                               |  99.27 |       29.30 
-| 2022-04-09 | 0347. Top K Frequent Elements.                         |  80.84 |       17.37 
-| 2022-04-10 | 0682. Baseball Game.                                   |  72.54 |       95.48 
-| 2022-04-11 | 1260. Shift 2D Grid.                                   |  92.20 |       89.14 
-| 2022-04-13 | 0059. Spiral MatrixII.                                 |  91.74 |       85.84 
-| 2022-04-15 | 0669. Trim a Binary Search Tree.                       |  80.50 |       83.03 
-| 2022-04-17 | 0897. Increasing Order Search Tree.                    |  78.67 |       90.59 
-| 2022-04-18 | 0203. Kth Smallest Element in a BST.                   |  82.99 |       90.88 
-| 2022-04-19 | 0099. Recover Binary Search Tree.                      |  89.25 |       94.87 
-| 2022-04-20 | 0173. Binary Search Tree Iterator.                     |  77.61 |       34.12 
-| 2022-04-21 | 0705. Design Hash Set.                                 |  23.42 |        5.31 
-| 2022-04-22 | 0706. Design Hash Map.                                 |  84.93 |       57.72 
-| 2022-04-23 | 0535. Encode and Decode TinyURL.                       |  59.79 |       28.27 
-| 2022-04-24 | 1396. Design Underground System.                       |  90.36 |       98.53 
-| 2022-04-25 | 0284. Peeking Iterator.                                |  28.79 |       29.71 
-| 2022-04-27 | 1202. Smallest String With Swaps.                      |  67.71 |       69.64 
-| 2022-04-28 | 1631. Path With Minumum  Effort.                       |  17.71 |       96.28 
-| 2022-04-29 | 0785. Is Graph Bipartite.                              |  90.15 |       76.07 
-| 2022-04-30 | 0399. Evaluate Division.                               |  76.77 |       95.43 
-| 2022-05-01 | 0844. Backspace String Compare                         |  48.63 |       77.17 
-| 2022-05-02 | 0905. Sort Array By Parity.                            |  41.76 |       96.65 
-| 2022-05-03 | 0581. Shortest Unsorted Continuous Subarray            |  88.29 |       54.83 
-| 2022-05-07 | 0456. 132 pattern.                                     |  46.21 |       95.87 
-| 2022-05-08 | 0341. Flatten Nested List Iterator.                    |  79.74 |       41.16 
-| 2022-05-14 | 0743. Network Delay Time.                              |  6.36  |       99.92 
-| 2022-05-16 | 1091. Shortest Path in Binary Matrix                   |  13.21 |       79.31 
-| 2022-05-18 | 1192. Critical Connection In a Network.                |  97.48 |       97.37 
-| 2022-05-19 | 0329. Longest Increasing Path in a Matrix.             |  35.67 |       98.27 
-| 2022-05-22 | 0647. Palindromic Substrings.                          |  94.39 |       75.82 
-| 2022-05-24 | 0032. Longest Valid Parentheses.                       |  57.97 |       60.78 
-| 2022-05-29 | 0318. Maximum Product of Word Lengths.                 |  84.18 |       71.68 
-| 2022-06-04 | 0051. N-Queens.                                        |  39.05 |       84.03 
-| 2022-06-05 | 0052. N-QueensII.                                      |  33.80 |       15.44 
-| 2022-06-11 | 1658. Min Operations To Reduce X To Zero.              |  27.61 |       29.25 
-| 2022-06-11 | 1695. Maximum Erasure Value.                           |  90.59 |       38.51 
-| 2022-06-15 | 1048. Longest String Chain.                            |  89.25 |       88.74 
-| 2022-06-20 | 0820. Shortest Encoding of Words.                      |  68.37 |       44.19 
-| 2022-06-21 | 1642. Furthest Building You can Reach.                 |  12.32 |       16.41 
-| 2022-06-22 | 0450. Delete Node in a BST.                            |  67.40 |       76.81 
-| 2022-06-23 | 0630. Course Schedule III.                             |  21.51 |       90.62 
-| 2022-06-25 | 0665. Non Decreasing Array.                            |  92.21 |       49.84 
-| 2022-06-26 | 1423. Maximum Points You Can Obtain From Cards.        |  48.30 |       71.96 
-| 2022-06-27 | 1689. PartitionIntoMinNumberofDeci-BinaryNumbers       |  96.12 |       83.73 
-| 2022-06-28 | 1647. Min Deletions To Make Character Freq Unique.     |  57.34 |       51.90 
-| 2022-06-29 | 0406. Queue Reconstruction By Height.                  |  80.23 |       31.23 
-| 2022-07-02 | 1465. Max Area of a Piece of a Cake.                   |  42.74 |       62.62 
-| 2022-07-04 | 0136. Candy.                                           |  93.51 |       18.65 
-| 2022-07-05 | 0128. Longest Consecutive Sequence.                    |  40.59 |        5.04 
-| 2022-07-07 | 0097. Interleaving String.                             |  26.26 |       98.73 
-| 2022-07-10 | 1696. Jump Game VI.                                    |  19.19 |       22.48 
-| 2022-07-10 | 0746. Min Cost Climbing Stairs.                        |  81.06 |       44.40 
-| 2022-07-16 | 0695. Max Area of Islands.                             |  95.52 |        9.21 
-| 2022-07-20 | 0792. Number of Matching Subsequences.                 |  20.24 |       16.33 
-| 2022-07-23 | 0315. Count of Smaller Number After Self.              |  38.45 |       35.66 
-| 2022-07-29 | 0890. Find and Replace Pattern.                        |  48.79 |       76.64 |
-| 2022-08-05 | 0377. Combination Sum IV.                              |85.62 |       80.97
-| 2022-08-06 | 0458. Poor Pigs.                                       |76.64 |       20.44
-|2022-08-07 | 1220. Count Vowels Permutation.                        |74.40 |       68.69
-|2022-08-09 | 0823. Binary Trees With Factors.                       |65.16 |       90.91
-|2022-08-18 | 1338. Reduce Array Size to The Half.                   |87.04 |       67.22
-|2022-08-29 | 0659. Split Array into Consecutive Subsequences.       |94.40      |66.90
+|    Date    | Title                                                  | Runtime |          Used memory 
+|:----------:|:-------------------------------------------------------|:------:|--:
+| 2021-05-04 | Non-decreasing array                                   |  160ms |              15.5 MB 
+| 2021-05-05 | Jump Game II.                                          |  20ms  |              14.3 MB 
+| 2021-05-06 | Convert Sorted List to Binary Search Tree              |  132ms |              20.4 MB 
+| 2021-05-12 | Range Sum Query 2D - Immutable                         | 1406ms |              16.6 MB 
+| 2021-05-13 | Ambiguous Coordinates                                  |  40ms  |              14.2 MB 
+| 2021-05-14 | Flatten Binary Tree to Linked List                     |  28ms  |              15.4 MB 
+| 2022-01-04 | Complement of Base10 Integer                           |  52ms  |              13.9 MB 
+| 2022-01-14 | 0452. Minimum Number of Arrows to Brust Ballons        |  96.79 |                10.52 
+| 2022-01-15 | 0008. String to Integer atoi.                          |  86.85 |                57.28 
+| 2022-01-16 | 0849. Maximize Distance to Closest Person.             |  67.94 |                25.91 
+| 2022-01-17 | 0290. Word Pattern.                                    |  99.91 |                55.31 
+| 2022-01-18 | 0605. Can Place Flowers.                               |  98.89 |                84.06 
+| 2022-01-19 | 0142. Linked List CycleII.                             |  71.87 |                82.54 
+| 2022-01-25 | 0520. Detect Capital.                                  |  75.64 |                74.81 
+| 2022-01-25 | 0941. Valid Mountain Array.                            |  80.42 |                18.42 
+| 2022-01-26 | 1305. All Elements In Two Binary Search Tree.          |  60.41 |                62.08 
+| 2022-02-11 | 0567. Premutation in String.                           |  92.93 |                83.82 
+| 2022-02-13 | 0078. Subsets.                                         |  91.98 |                82.34 
+| 2022-02-14 | 0104. Maximum Depth Binary Tree.                       |  76.53 |                 8.26 
+| 2022-02-15 | 0136. Single Number.                                   |  86.40 |                68.96 
+| 2022-02-16 | 0024. Swap Nodes in Pairs.                             |  62.34 |                75.41 
+| 2022-02-17 | 0039. Combination Sum.                                 |  87.71 |                97.98 
+| 2022-02-21 | 0169. Majority Element.                                |  80.55 |                43.74 
+| 2022-02-22 | 0171. Excel Sheet Column Number                        |  77.88 |                83.72 
+| 2022-03-07 | 0021. Merge two Sorted List                            |  97.89 |                89.81 
+| 2022-03-28 | 0081. Search in Rotated Sorted ArrayII.                |  88.54 |                95.32 
+| 2022-03-29 | 0287. Find the Duplicate Number.                       |  50.41 |                59.49 
+| 2022-03-30 | 0074. Search a 2D Matrix.                              |  97.74 |                90.46 
+| 2022-04-01 | 0344. Reverse String.                                  |  85.34 |                48.50 
+| 2022-04-02 | 0680. Valid Palindrome II                              |  92.87 |                91.68 
+| 2022-04-03 | 0031. Next Permutation.                                |  43.54 |                79.00 
+| 2022-04-04 | 1721. Swapping Nodes In a LinkedList                   |  76.54 |                85.24 
+| 2022-04-05 | 0011. Container With Most Water                        |  49.49 |                89.15 
+| 2022-04-06 | 0923. 3 Sum With Multiplicity.                         |  59.30 |                22.67 
+| 2022-04-07 | 1046. Last Stone Weight.                               |  99.27 |                29.30 
+| 2022-04-09 | 0347. Top K Frequent Elements.                         |  80.84 |                17.37 
+| 2022-04-10 | 0682. Baseball Game.                                   |  72.54 |                95.48 
+| 2022-04-11 | 1260. Shift 2D Grid.                                   |  92.20 |                89.14 
+| 2022-04-13 | 0059. Spiral MatrixII.                                 |  91.74 |                85.84 
+| 2022-04-15 | 0669. Trim a Binary Search Tree.                       |  80.50 |                83.03 
+| 2022-04-17 | 0897. Increasing Order Search Tree.                    |  78.67 |                90.59 
+| 2022-04-18 | 0203. Kth Smallest Element in a BST.                   |  82.99 |                90.88 
+| 2022-04-19 | 0099. Recover Binary Search Tree.                      |  89.25 |                94.87 
+| 2022-04-20 | 0173. Binary Search Tree Iterator.                     |  77.61 |                34.12 
+| 2022-04-21 | 0705. Design Hash Set.                                 |  23.42 |                 5.31 
+| 2022-04-22 | 0706. Design Hash Map.                                 |  84.93 |                57.72 
+| 2022-04-23 | 0535. Encode and Decode TinyURL.                       |  59.79 |                28.27 
+| 2022-04-24 | 1396. Design Underground System.                       |  90.36 |                98.53 
+| 2022-04-25 | 0284. Peeking Iterator.                                |  28.79 |                29.71 
+| 2022-04-27 | 1202. Smallest String With Swaps.                      |  67.71 |                69.64 
+| 2022-04-28 | 1631. Path With Minumum  Effort.                       |  17.71 |                96.28 
+| 2022-04-29 | 0785. Is Graph Bipartite.                              |  90.15 |                76.07 
+| 2022-04-30 | 0399. Evaluate Division.                               |  76.77 |                95.43 
+| 2022-05-01 | 0844. Backspace String Compare                         |  48.63 |                77.17 
+| 2022-05-02 | 0905. Sort Array By Parity.                            |  41.76 |                96.65 
+| 2022-05-03 | 0581. Shortest Unsorted Continuous Subarray            |  88.29 |                54.83 
+| 2022-05-07 | 0456. 132 pattern.                                     |  46.21 |                95.87 
+| 2022-05-08 | 0341. Flatten Nested List Iterator.                    |  79.74 |                41.16 
+| 2022-05-14 | 0743. Network Delay Time.                              |  6.36  |                99.92 
+| 2022-05-16 | 1091. Shortest Path in Binary Matrix                   |  13.21 |                79.31 
+| 2022-05-18 | 1192. Critical Connection In a Network.                |  97.48 |                97.37 
+| 2022-05-19 | 0329. Longest Increasing Path in a Matrix.             |  35.67 |                98.27 
+| 2022-05-22 | 0647. Palindromic Substrings.                          |  94.39 |                75.82 
+| 2022-05-24 | 0032. Longest Valid Parentheses.                       |  57.97 |                60.78 
+| 2022-05-29 | 0318. Maximum Product of Word Lengths.                 |  84.18 |                71.68 
+| 2022-06-04 | 0051. N-Queens.                                        |  39.05 |                84.03 
+| 2022-06-05 | 0052. N-QueensII.                                      |  33.80 |                15.44 
+| 2022-06-11 | 1658. Min Operations To Reduce X To Zero.              |  27.61 |                29.25 
+| 2022-06-11 | 1695. Maximum Erasure Value.                           |  90.59 |                38.51 
+| 2022-06-15 | 1048. Longest String Chain.                            |  89.25 |                88.74 
+| 2022-06-20 | 0820. Shortest Encoding of Words.                      |  68.37 |                44.19 
+| 2022-06-21 | 1642. Furthest Building You can Reach.                 |  12.32 |                16.41 
+| 2022-06-22 | 0450. Delete Node in a BST.                            |  67.40 |                76.81 
+| 2022-06-23 | 0630. Course Schedule III.                             |  21.51 |                90.62 
+| 2022-06-25 | 0665. Non Decreasing Array.                            |  92.21 |                49.84 
+| 2022-06-26 | 1423. Maximum Points You Can Obtain From Cards.        |  48.30 |                71.96 
+| 2022-06-27 | 1689. PartitionIntoMinNumberofDeci-BinaryNumbers       |  96.12 |                83.73 
+| 2022-06-28 | 1647. Min Deletions To Make Character Freq Unique.     |  57.34 |                51.90 
+| 2022-06-29 | 0406. Queue Reconstruction By Height.                  |  80.23 |                31.23 
+| 2022-07-02 | 1465. Max Area of a Piece of a Cake.                   |  42.74 |                62.62 
+| 2022-07-04 | 0136. Candy.                                           |  93.51 |                18.65 
+| 2022-07-05 | 0128. Longest Consecutive Sequence.                    |  40.59 |                 5.04 
+| 2022-07-07 | 0097. Interleaving String.                             |  26.26 |                98.73 
+| 2022-07-10 | 1696. Jump Game VI.                                    |  19.19 |                22.48 
+| 2022-07-10 | 0746. Min Cost Climbing Stairs.                        |  81.06 |                44.40 
+| 2022-07-16 | 0695. Max Area of Islands.                             |  95.52 |                 9.21 
+| 2022-07-20 | 0792. Number of Matching Subsequences.                 |  20.24 |                16.33 
+| 2022-07-23 | 0315. Count of Smaller Number After Self.              |  38.45 |                35.66 
+| 2022-07-29 | 0890. Find and Replace Pattern.                        |  48.79 |                76.64 |
+| 2022-08-05 | 0377. Combination Sum IV.                              |85.62 |                80.97 
+| 2022-08-06 | 0458. Poor Pigs.                                       |76.64 |                20.44 
+|2022-08-07 | 1220. Count Vowels Permutation.                        |74.40 |                68.69 
+|2022-08-09 | 0823. Binary Trees With Factors.                       |65.16 |                90.91 
+|2022-08-18 | 1338. Reduce Array Size to The Half.                   |87.04 |                67.22 
+|2022-08-29 | 0659. Split Array into Consecutive Subsequences.       |94.40      |                66.90 
+|2022-08-20 |*0871. Min Number of Refueling Stops.                   | |5.15       |74.58
+
 
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -348,8 +350,8 @@
 |2022-08-09 |0823. Binary Trees With Factors.                   |Medium |DP                     |65.15      |90.91
 |2022-08-14 |*0126. Word Ladder II.                             |Hard   |BFS, Hash              |59.65      |40.56
 |2022-08-18 |1338. Reduce Array Size To The Half.               |Medium |Heap                   |87.04      |67.22
-|2022-08-29 |0659. Split Array into Consecutive Subsequences.   |Medium |Heap, Hash, Greedy     |94.40      |66.90
-
+|2022-08-19 |0659. Split Array into Consecutive Subsequences.   |Medium |Heap, Hash, Greedy     |94.40      |66.90
+|2022-08-20 |*0871. Min Number of Refueling Stops.              |Hard   |DP                     |5.15       |74.58
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
