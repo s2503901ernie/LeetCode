@@ -98,7 +98,9 @@
 |2022-08-09 | 0823. Binary Trees With Factors.                       |65.16 |                90.91 
 |2022-08-18 | 1338. Reduce Array Size to The Half.                   |87.04 |                67.22 
 |2022-08-29 | 0659. Split Array into Consecutive Subsequences.       |94.40      |                66.90 
-|2022-08-20 |*0871. Min Number of Refueling Stops.                   | |5.15       |74.58
+|2022-08-20 |*0871. Min Number of Refueling Stops.                   |5.15       |74.58
+|2022-08-21 |*0936. Stamping the Sequence.                           |7.46       |98.51
+
 
 
 ## Problems
@@ -352,6 +354,8 @@
 |2022-08-18 |1338. Reduce Array Size To The Half.               |Medium |Heap                   |87.04      |67.22
 |2022-08-19 |0659. Split Array into Consecutive Subsequences.   |Medium |Heap, Hash, Greedy     |94.40      |66.90
 |2022-08-20 |*0871. Min Number of Refueling Stops.              |Hard   |DP                     |5.15       |74.58
+|2022-08-21 |*0936. Stamping the Sequence.                      |Hard   |Greedy, DFS            |7.46       |98.51
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
