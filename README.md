@@ -355,7 +355,7 @@
 |2022-08-19 |0659. Split Array into Consecutive Subsequences.   |Medium |Heap, Hash, Greedy     |94.40      |66.90
 |2022-08-20 |*0871. Min Number of Refueling Stops.              |Hard   |DP                     |5.15       |74.58
 |2022-08-21 |*0936. Stamping the Sequence.                      |Hard   |Greedy, DFS            |7.46       |98.51
-
+|2022-08-27 |*0363. Max Sum of Rectangle No Longer Than K.      |Hard   |Prefix, Binary Search  |73.51      |57.31
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
