@@ -1,0 +1,76 @@
+"""
+Given the root of a binary tree, return the average value of the nodes on each level in the form of an array. Answers within 10-5 of the actual answer will be accepted.
+
+
+Example 1:
+
+
+Input: root = [3,9,20,null,null,15,7]
+Output: [3.00000,14.50000,11.00000]
+Explanation: The average value of nodes on level 0 is 3, on level 1 is 14.5, and on level 2 is 11.
+Hence return [3, 14.5, 11].
+Example 2:
+
+
+Input: root = [3,9,20,15,7]
+Output: [3.00000,14.50000,11.00000]
+
+
+Constraints:
+
+The number of nodes in the tree is in the range [1, 10^4].
+-2^31 <= Node.val <= 2^31 - 1
+"""
+from typing import List, Optional
+
+# Definition for a binary tree node.
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
+class Solution:
+    """bfs"""
+    def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
+        res = []
+        ans = []
+        stack = [[root, 0]]
+        while stack:
+            cur = stack.pop(0)
+            node, d = cur[0], cur[1]
+            if len(res) < d + 1:
+                res.append([node.val])
+            else:
+                res[d].append(node.val)
+            if node.left:
+                stack.append([node.left, d + 1])
+            if node.right:
+                stack.append([node.right, d + 1])
+        for r in res:
+            ans.append(sum(r) / len(r))
+        return ans
+
+
+class Solution:
+    """dfs"""
+    def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
+        res = []
+        ans = []
+        self.dfs(root, 0, res)
+        for r in res:
+            ans.append(sum(r) / len(r))
+
+        return ans
+
+    def dfs(self, node, d, res):
+        if not node:
+            return
+
+        if len(res) < d + 1:
+            res.append([node.val])
+        else:
+            res[d].append(node.val)
+        self.dfs(node.left, d + 1, res)
+        self.dfs(node.right, d + 1, res)
