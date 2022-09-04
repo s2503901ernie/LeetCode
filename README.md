@@ -102,6 +102,8 @@
 |2022-08-21 |*0936. Stamping the Sequence.                           |7.46       |98.51
 |2022-09-02 |0637. Average of Level in Binary Tree.                  |68.92     |46.07
 |2022-09-03 |0967. Numbers With Same Consecutive Differences.       |98.98      |93.88
+|2022-09-04 |0987. Vertical Order Traversal of a Binary Tree.       |66.98      |28.65
+
 
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -359,7 +361,7 @@
 |2022-09-02 |0637. Average of Level in Binary Tree.             |Easy   |BT, BFS, DFS           |68.92      |46.07
 |2022-09-02 |0988. Smallest String Starting from Leaf.          |Medium |BT                     |96.71      |14.56
 |2022-09-03 |0967. Numbers With Same Consecutive Differences.   |Medium |BFS                    |98.98      |93.88
-
+|2022-09-04 |0987. vertical Order Traversal of a Binary Tree.   |Hard   |BT, DFS, BFS           |66.98      |28.65
 
 
 ## Weekly Contest
