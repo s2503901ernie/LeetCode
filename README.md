@@ -103,7 +103,7 @@
 |2022-09-02 |0637. Average of Level in Binary Tree.                  |68.92     |46.07
 |2022-09-03 |0967. Numbers With Same Consecutive Differences.       |98.98      |93.88
 |2022-09-04 |0987. Vertical Order Traversal of a Binary Tree.       |66.98      |28.65
-
+|2022-09-09 |1996. The Number of Weak Characters in the game.       |7.20       |55.72
 
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -362,7 +362,7 @@
 |2022-09-02 |0988. Smallest String Starting from Leaf.          |Medium |BT                     |96.71      |14.56
 |2022-09-03 |0967. Numbers With Same Consecutive Differences.   |Medium |BFS                    |98.98      |93.88
 |2022-09-04 |0987. vertical Order Traversal of a Binary Tree.   |Hard   |BT, DFS, BFS           |66.98      |28.65
-
+|2022-09-09 |*1996. Number of Weak Characters in the Game.      |Medium |Stack                  |7.94       |23.33
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
