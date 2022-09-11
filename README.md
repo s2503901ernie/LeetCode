@@ -363,6 +363,8 @@
 |2022-09-03 |0967. Numbers With Same Consecutive Differences.   |Medium |BFS                    |98.98      |93.88
 |2022-09-04 |0987. vertical Order Traversal of a Binary Tree.   |Hard   |BT, DFS, BFS           |66.98      |28.65
 |2022-09-09 |*1996. Number of Weak Characters in the Game.      |Medium |Stack                  |7.94       |23.33
+|2022-09-10 |*0188. Best Time To Buy And Sell Stock IV.         |Hard   |DP                     |81.68      |79.28
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
