@@ -364,6 +364,9 @@
 |2022-09-04 |0987. vertical Order Traversal of a Binary Tree.   |Hard   |BT, DFS, BFS           |66.98      |28.65
 |2022-09-09 |*1996. Number of Weak Characters in the Game.      |Medium |Stack                  |7.94       |23.33
 |2022-09-10 |*0188. Best Time To Buy And Sell Stock IV.         |Hard   |DP                     |81.68      |79.28
+|2022-09-11 |1383. Max Performance of a Team.                   |Hard   |Greedy, Heap           |16.04      |23.63
+|2022-09-14 |1457. Pseduo Palindromic Paths in a Binary Tree.   |Medium |Bit, DFS               |81.31      |65.11
+
 
 
 ## Weekly Contest
