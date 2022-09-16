@@ -366,7 +366,7 @@
 |2022-09-10 |*0188. Best Time To Buy And Sell Stock IV.         |Hard   |DP                     |81.68      |79.28
 |2022-09-11 |1383. Max Performance of a Team.                   |Hard   |Greedy, Heap           |16.04      |23.63
 |2022-09-14 |1457. Pseduo Palindromic Paths in a Binary Tree.   |Medium |Bit, DFS               |81.31      |65.11
-
+|2022-09-17 |*1770. Max Score from Performing Multi Operations. |Medium |DP                     |73.12      |14.34
 
 
 ## Weekly Contest
