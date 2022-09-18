@@ -104,6 +104,8 @@
 |2022-09-03 |0967. Numbers With Same Consecutive Differences.       |98.98      |93.88
 |2022-09-04 |0987. Vertical Order Traversal of a Binary Tree.       |66.98      |28.65
 |2022-09-09 |1996. The Number of Weak Characters in the game.       |7.20       |55.72
+|2022-09-18 |0042. Trapping Rain Water.                             |45.19      |81.24
+
 
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -366,7 +368,7 @@
 |2022-09-10 |*0188. Best Time To Buy And Sell Stock IV.         |Hard   |DP                     |81.68      |79.28
 |2022-09-11 |1383. Max Performance of a Team.                   |Hard   |Greedy, Heap           |16.04      |23.63
 |2022-09-14 |1457. Pseduo Palindromic Paths in a Binary Tree.   |Medium |Bit, DFS               |81.31      |65.11
-
+|2022-09-18 |0042. Trapping Rain Water.                         |Hard   |DP                     |45.19      |81.24
 
 
 ## Weekly Contest
