@@ -370,7 +370,7 @@
 |2022-09-14 |1457. Pseduo Palindromic Paths in a Binary Tree.   |Medium |Bit, DFS               |81.31      |65.11
 |2022-09-17 |*1770. Max Score from Performing Multi Operations. |Medium |DP                     |73.12      |14.34
 |2022-09-18 |0042. Trapping Rain Water.                         |Hard   |DP                     |45.19      |81.24
-
+|2022-09-20 |0718. Max Length of Repeated Subarray.             |Medium |DP                     |50.81      |29.75
 
 
 ## Weekly Contest
