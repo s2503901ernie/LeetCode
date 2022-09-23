@@ -105,7 +105,7 @@
 |2022-09-04 |0987. Vertical Order Traversal of a Binary Tree.       |66.98      |28.65
 |2022-09-09 |1996. The Number of Weak Characters in the game.       |7.20       |55.72
 |2022-09-18 |0042. Trapping Rain Water.                             |45.19      |81.24
-
+|2022-09-22 |1680. Concatenation Consecutive binary Numbers.        |40.41      |80.31
 
 ## Problems
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
@@ -371,6 +371,9 @@
 |2022-09-17 |*1770. Max Score from Performing Multi Operations. |Medium |DP                     |73.12      |14.34
 |2022-09-18 |0042. Trapping Rain Water.                         |Hard   |DP                     |45.19      |81.24
 |2022-09-20 |0718. Max Length of Repeated Subarray.             |Medium |DP                     |50.81      |29.75
+|2022-09-23 |1680. Concatenation Consecutive Binary Numbers.    |Medium |BitManipulation        |40.16      |80.31
+
+
 
 
 ## Weekly Contest
