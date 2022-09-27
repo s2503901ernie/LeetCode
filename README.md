@@ -375,7 +375,7 @@
 |2022-09-20 |0718. Max Length of Repeated Subarray.             |Medium |DP                     |50.81      |29.75
 |2022-09-23 |1680. Concatenation Consecutive Binary Numbers.    |Medium |BitManipulation        |40.16      |80.31
 |2022-09-26 |0990. Satisfiability of Equality Equations.        |Medium |UnionFind              |66.01      |94.08
-
+|2022-09-27 |0838. Push Dominoes.                               |Medium |String                 |96.26      |99.07
 
 
 ## Weekly Contest
