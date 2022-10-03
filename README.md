@@ -377,6 +377,8 @@
 |2022-09-26 |0990. Satisfiability of Equality Equations.        |Medium |UnionFind              |66.01      |94.08
 |2022-09-27 |0838. Push Dominoes.                               |Medium |String                 |96.26      |99.07
 |2022-10-02 |*1155. Number of Dices Rolls With Target.          |Medium |DP                     |5.05       |64.02
+|2022-10-03 |1578. Min Time To Make Rope Colorful.              |Medium |Greedy, DP             |96.15      |74.83
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
