@@ -107,6 +107,8 @@
 |2022-09-18 |0042. Trapping Rain Water.                             |45.19      |81.24
 |2022-09-22 |1680. Concatenation Consecutive binary Numbers.        |40.41      |80.31
 |2022-09-26 |0990. Satisfiability of Equality Equations.            |66.01      |94.08
+|2022-10-19 |0692. Top K Frequent Words.                            |28.86      |27.71
+
 
 
 ## Problems
@@ -378,6 +380,8 @@
 |2022-09-27 |0838. Push Dominoes.                               |Medium |String                 |96.26      |99.07
 |2022-10-02 |*1155. Number of Dices Rolls With Target.          |Medium |DP                     |5.05       |64.02
 |2022-10-03 |1578. Min Time To Make Rope Colorful.              |Medium |Greedy, DP             |96.15      |74.83
+|2022-10-19 |0692. Top K Frequent Words.                        |Medium |Heap                   |28.68      |27.71
+
 
 
 ## Weekly Contest
