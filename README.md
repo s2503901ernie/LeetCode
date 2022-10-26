@@ -109,6 +109,7 @@
 |2022-09-26 |0990. Satisfiability of Equality Equations.            |66.01      |94.08
 |2022-10-19 |0692. Top K Frequent Words.                            |28.86      |27.71
 |2022-10-22 |0076. Minimum Window Substring.                        |73.16      |83.90
+|2022-10-26 |0523. Continuous Subarray Sum.                         |48.75      |89.99
 
 
 
@@ -383,6 +384,8 @@
 |2022-10-03 |1578. Min Time To Make Rope Colorful.              |Medium |Greedy, DP             |96.15      |74.83
 |2022-10-19 |0692. Top K Frequent Words.                        |Medium |Heap                   |28.68      |27.71
 |2022-10-22 |0076. Minimum Window Substring.                    |Medium |Slide Window           |73.16      |83.90
+|2022-10-26 |0523. Continuous Subarray Sum.                     |Medium |Hash                   |48.75      |89.99
+
 
 
 ## Weekly Contest
