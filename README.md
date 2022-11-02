@@ -110,6 +110,7 @@
 |2022-10-19 |0692. Top K Frequent Words.                            |28.86      |27.71
 |2022-10-22 |0076. Minimum Window Substring.                        |73.16      |83.90
 |2022-10-26 |0523. Continuous Subarray Sum.                         |48.75      |89.99
+|2022-11-02 |0433. Min Genetic Mutation.                            |59.02      |37.43
 
 
 
@@ -385,7 +386,7 @@
 |2022-10-19 |0692. Top K Frequent Words.                        |Medium |Heap                   |28.68      |27.71
 |2022-10-22 |0076. Minimum Window Substring.                    |Medium |Slide Window           |73.16      |83.90
 |2022-10-26 |0523. Continuous Subarray Sum.                     |Medium |Hash                   |48.75      |89.99
-
+|2022-11-02 |0433. Min Genetic Mutation.                        |Medium |BFS                    |59.02      |37.43
 
 
 ## Weekly Contest
