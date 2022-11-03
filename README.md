@@ -387,6 +387,7 @@
 |2022-10-22 |0076. Minimum Window Substring.                    |Medium |Slide Window           |73.16      |83.90
 |2022-10-26 |0523. Continuous Subarray Sum.                     |Medium |Hash                   |48.75      |89.99
 |2022-11-02 |0433. Min Genetic Mutation.                        |Medium |BFS                    |59.02      |37.43
+|2022-11-03 |2131. Longest Palindrome by two words.             |Medium |Greedy                 |83.72      |86.56
 
 
 ## Weekly Contest
