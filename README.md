@@ -389,6 +389,10 @@
 |2022-11-02 |0433. Min Genetic Mutation.                        |Medium |BFS                    |59.02      |37.43
 |2022-11-03 |2131. Longest Palindrome by two words.             |Medium |Greedy                 |83.72      |86.56
 |2022-11-20 |0224. Basic Calculator.                            |Hard   |Stack                  |66.58      |55.19
+|2022-12-18 |0739. Daily Temperatures.                          |Medium |Stack                  |78.31      |95.42
+
+
+
 
 ## Weekly Contest
 |Date       |Title                                              |Level  |Tag                    |RuntimePR  | Used memoryPR
